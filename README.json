@@ -144,7 +144,7 @@
             "last_commit": "2025-05-26T06:28:15Z",
             "owner": "dukus",
             "repo": "digiCamControl",
-            "stars": 730
+            "stars": 731
           }
         },
         {
@@ -242,10 +242,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T03:40:52Z",
+            "last_commit": "2026-08-13T22:17:34Z",
             "owner": "mltframework",
             "repo": "shotcut",
-            "stars": 14911
+            "stars": 14915
           }
         },
         {
@@ -290,10 +290,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T05:47:22Z",
+            "last_commit": "2026-08-13T21:23:19Z",
             "owner": "georgmartius",
             "repo": "vid.stab",
-            "stars": 951
+            "stars": 952
           }
         },
         {
@@ -339,7 +339,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:01:38.391Z",
+    "last_updated": "2026-08-13T22:53:59.196Z",
     "original_repository": "ibaaj/awesome-OpenSourcePhotography",
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
     "enhanced_repository": "enhansome/enhansome-OpenSourcePhotography",
