@@ -1,0 +1,349 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Autoexec Hack",
+          "description": "Compilation of hacks for GoPro Cameras.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "AGS Script",
+            "last_commit": "2018-05-26T12:34:16Z",
+            "owner": "KonradIT",
+            "repo": "autoexechack",
+            "stars": 482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xiaomi Yi Autoexec",
+          "description": "Compilation of autoexec scripts and mods for Xiaomi Yi camera.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AGS Script",
+            "last_commit": "2024-07-04T07:58:41Z",
+            "owner": "PJanisio",
+            "repo": "Xiaomi_Yi_autoexec",
+            "stars": 311
+          }
+        }
+      ],
+      "title": "Camera Firmware Mods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Edsdk4j",
+          "description": "Canon SDK for Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-02-15T13:31:54Z",
+            "owner": "kritzikratzi",
+            "repo": "edsdk4j",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OfxCanon",
+          "description": "OpenFrameworks addon for the Canon EDSK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2011-11-04T13:48:41Z",
+            "owner": "diederickh",
+            "repo": "ofxCanon",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "Canon"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GoPro",
+          "description": "A Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-02-06T17:56:13Z",
+            "owner": "joshvillbrandt",
+            "repo": "goprohero",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoPro",
+          "description": "API for controlling GoPro Hero 3 Camera from Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-05-21T23:10:08Z",
+            "owner": "kschzt",
+            "repo": "gopro",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoPro",
+          "description": "GoPro Hero 4 - Python API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-05-14T18:06:01Z",
+            "owner": "DenisCarriere",
+            "repo": "gopro",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoPro.Hero",
+          "description": "A lightweight c# library to access and control GoPro HERO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-22T17:58:37Z",
+            "owner": "r1pper",
+            "repo": "GoPro.Hero",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "GoPro"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "digiCamControl",
+          "description": "DSLR camera remote control open source software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-26T06:28:15Z",
+            "owner": "dukus",
+            "repo": "digiCamControl",
+            "stars": 730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remoteyourcam-usb",
+          "description": "Control your Canon or Nikon DSLR camera from your Android device through USB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-09-19T07:40:46Z",
+            "owner": "michaelzoech",
+            "repo": "remoteyourcam-usb",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timelapse-sony",
+          "description": "Android app for creating timelapse via \"Ctrl with Smartphone\" mode or connected by NFC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-03-28T13:46:40Z",
+            "owner": "ThibaudM",
+            "repo": "timelapse-sony",
+            "stars": 141
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Simple Gallery",
+          "description": "A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-08-18T04:23:47Z",
+            "owner": "SimpleMobileTools",
+            "repo": "Simple-Gallery",
+            "stars": 4009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leaf Pic",
+          "description": "Material-designed android gallery alternative.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-02-14T23:27:23Z",
+            "owner": "UnevenSoftware",
+            "repo": "LeafPic",
+            "stars": 3266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Photo Manager",
+          "description": "Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-08-14T08:52:22Z",
+            "owner": "k3b",
+            "repo": "APhotoManager",
+            "stars": 242
+          }
+        }
+      ],
+      "title": "Photo Organizers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shotcut",
+          "description": "A free, open source, cross-platform video editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:40:52Z",
+            "owner": "mltframework",
+            "repo": "shotcut",
+            "stars": 14911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Natron",
+          "description": "A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-09-30T20:43:46Z",
+            "owner": "MrKepzie",
+            "repo": "Natron",
+            "stars": 1509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ButtleOFX",
+          "description": "A simple, user-friendly and open source compositing software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "QML",
+            "last_commit": "2017-07-31T17:56:07Z",
+            "owner": "buttleofx",
+            "repo": "ButtleOFX",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "Compositing software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vid.stab",
+          "description": "A video stabilization library which can be plugged-in with Ffmpeg and Transcode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T05:47:22Z",
+            "owner": "georgmartius",
+            "repo": "vid.stab",
+            "stars": 951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frei0r",
+          "description": "A large collection of free and portable video plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-27T09:43:53Z",
+            "owner": "dyne",
+            "repo": "frei0r",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TuttleOFX",
+          "description": "An image processing framework based on OpenFX plugin format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-08-13T16:44:36Z",
+            "owner": "tuttleofx",
+            "repo": "TuttleOFX",
+            "stars": 192
+          }
+        }
+      ],
+      "title": "Video Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scripts"
+    },
+    {
+      "description": "Using FFmpeg and Hugin.\n",
+      "items": [],
+      "title": "Video to Panorama"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:01:38.391Z",
+    "original_repository": "ibaaj/awesome-OpenSourcePhotography",
+    "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
+    "enhanced_repository": "enhansome/enhansome-OpenSourcePhotography",
+    "enhanced_repository_description": null,
+    "title": "Awesome-OpenSourcePhotography with stars"
+  }
+}
