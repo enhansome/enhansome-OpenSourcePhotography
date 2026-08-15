@@ -28,7 +28,7 @@
             "last_commit": "2024-07-04T07:58:41Z",
             "owner": "PJanisio",
             "repo": "Xiaomi_Yi_autoexec",
-            "stars": 311
+            "stars": 312
           }
         }
       ],
@@ -192,7 +192,7 @@
             "last_commit": "2024-08-18T04:23:47Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4011
+            "stars": 4012
           }
         },
         {
@@ -220,7 +220,7 @@
             "last_commit": "2025-08-14T08:52:22Z",
             "owner": "k3b",
             "repo": "APhotoManager",
-            "stars": 242
+            "stars": 241
           }
         }
       ],
@@ -242,10 +242,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T22:17:34Z",
+            "last_commit": "2026-08-15T05:42:06Z",
             "owner": "mltframework",
             "repo": "shotcut",
-            "stars": 14919
+            "stars": 14924
           }
         },
         {
@@ -339,7 +339,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:32:49.286Z",
+    "last_updated": "2026-08-15T22:31:07.933Z",
     "original_repository": "ibaaj/awesome-OpenSourcePhotography",
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
     "enhanced_repository": "enhansome/enhansome-OpenSourcePhotography",
