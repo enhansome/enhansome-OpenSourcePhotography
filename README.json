@@ -192,7 +192,7 @@
             "last_commit": "2024-08-18T04:23:47Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4012
+            "stars": 4013
           }
         },
         {
@@ -242,10 +242,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T05:42:06Z",
+            "last_commit": "2026-08-16T01:12:20Z",
             "owner": "mltframework",
             "repo": "shotcut",
-            "stars": 14924
+            "stars": 14926
           }
         },
         {
@@ -304,7 +304,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-06-27T09:43:53Z",
+            "last_commit": "2026-08-16T09:10:51Z",
             "owner": "dyne",
             "repo": "frei0r",
             "stars": 583
@@ -339,7 +339,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:31:07.933Z",
+    "last_updated": "2026-08-16T22:30:23.192Z",
     "original_repository": "ibaaj/awesome-OpenSourcePhotography",
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
     "enhanced_repository": "enhansome/enhansome-OpenSourcePhotography",
