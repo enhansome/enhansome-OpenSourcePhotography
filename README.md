@@ -1,8 +1,8 @@
 # Awesome-OpenSourcePhotography with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,654 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,813 | 🐛 102 | 📅 2026-08-18
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,654 | 🐛 102 | 📅 2026-08-18.
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,813 | 🐛 102 | 📅 2026-08-18.
 
 * [General](#general)
 * [Camera Firmware Mods](#camera-firmware-mods)
@@ -102,7 +102,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Photo Organizers
 
-* [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) ⭐ 4,014 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
+* [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) ⭐ 4,015 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
 * [Leaf Pic](https://github.com/HoraApps/LeafPic/) ⭐ 3,266 | 🐛 67 | 🌐 Java | 📅 2024-02-14 - Material-designed android gallery alternative.
 * [A Photo Manager](https://github.com/k3b/APhotoManager/) ⭐ 241 | 🐛 47 | 🌐 Java | 📅 2025-08-14 - Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...
 * [Shotwell](http://yorba.org/shotwell/) - A photo manager for GNOME 3.
@@ -170,7 +170,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Compositing software
 
-* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 14,943 | 🐛 54 | 🌐 C++ | 📅 2026-08-19 - A free, open source, cross-platform video editor.
+* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 14,944 | 🐛 54 | 🌐 C++ | 📅 2026-08-19 - A free, open source, cross-platform video editor.
 * [Natron](https://github.com/MrKepzie/Natron) ⭐ 1,507 | 🐛 13 | 🌐 C++ | 📅 2018-09-30 - A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
 * [ButtleOFX](https://github.com/buttleofx/ButtleOFX) ⭐ 95 | 🐛 35 | 🌐 QML | 📅 2017-07-31 - A simple, user-friendly and open source compositing software.
 * [Blender](https://www.blender.org/) - This open source 3D graphics has tools for video editing.
