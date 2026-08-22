@@ -262,10 +262,10 @@
                 "archived": false,
                 "id": 4118776,
                 "language": "C++",
-                "last_commit": "2026-08-21T00:39:05Z",
+                "last_commit": "2026-08-22T16:43:49Z",
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 14961
+                "stars": 14963
               }
             },
             {
@@ -360,7 +360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:33:06.996Z",
+    "last_updated": "2026-08-22T22:30:39.232Z",
     "original_repository": "ibaaj/awesome-OpenSourcePhotography",
     "original_repository_id": 39386696,
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
