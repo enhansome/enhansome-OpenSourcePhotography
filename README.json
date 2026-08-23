@@ -212,7 +212,7 @@
             "last_commit": "2024-08-18T04:23:47Z",
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4018
+            "stars": 4017
           }
         },
         {
@@ -265,7 +265,7 @@
                 "last_commit": "2026-08-22T16:43:49Z",
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 14963
+                "stars": 14974
               }
             },
             {
@@ -317,7 +317,7 @@
                 "last_commit": "2026-08-14T20:16:05Z",
                 "owner": "georgmartius",
                 "repo": "vid.stab",
-                "stars": 953
+                "stars": 954
               }
             },
             {
@@ -360,7 +360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:30:39.232Z",
+    "last_updated": "2026-08-23T22:31:05.471Z",
     "original_repository": "ibaaj/awesome-OpenSourcePhotography",
     "original_repository_id": 39386696,
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
