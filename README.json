@@ -40,6 +40,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "LibGphoto2",
+          "description": "C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40043855,
+            "language": "C",
+            "last_commit": "2026-08-17T17:13:58Z",
+            "owner": "gphoto",
+            "repo": "libgphoto2",
+            "stars": 1355
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -142,6 +157,28 @@
           "description": null,
           "node_type": "group",
           "title": "GoPro"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SonyPy",
+              "description": "Python module for Sony Camera Remote API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15408234,
+                "language": "Python",
+                "last_commit": "2013-12-24T01:16:13Z",
+                "owner": "storborg",
+                "repo": "sonypy",
+                "stars": 63
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sony"
         }
       ],
       "title": "Libraries"
@@ -202,6 +239,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Raw Studio",
+          "description": "Read and manipulate RAW images from digital cameras.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27089130,
+            "language": "C",
+            "last_commit": "2024-03-17T08:39:04Z",
+            "owner": "rawstudio",
+            "repo": "rawstudio",
+            "stars": 91
+          }
+        }
+      ],
+      "title": "RAW image developers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Luminance",
+          "description": "A complete workflow for HDR imaging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30804049,
+            "language": "C++",
+            "last_commit": "2026-05-20T07:10:46Z",
+            "owner": "LuminanceHDR",
+            "repo": "LuminanceHDR",
+            "stars": 669
+          }
+        }
+      ],
+      "title": "HDR Specific Software"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Simple Gallery",
           "description": "A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.",
           "children": [],
@@ -252,6 +331,48 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Exiv2",
+          "description": "Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89623031,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:51:48Z",
+            "owner": "Exiv2",
+            "repo": "exiv2",
+            "stars": 1157
+          }
+        }
+      ],
+      "title": "EXIF Editors"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open360viewer",
+          "description": "Open source 360° media viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 443812190,
+            "language": "JavaScript",
+            "last_commit": "2022-11-12T13:37:45Z",
+            "owner": "TheGreyDiamond",
+            "repo": "open360viewer",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "360° Images"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -265,7 +386,7 @@
                 "last_commit": "2026-08-22T16:43:49Z",
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 14974
+                "stars": 14981
               }
             },
             {
@@ -360,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:31:05.471Z",
+    "last_updated": "2026-08-24T14:25:16.309Z",
     "original_repository": "ibaaj/awesome-OpenSourcePhotography",
     "original_repository_id": 39386696,
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",

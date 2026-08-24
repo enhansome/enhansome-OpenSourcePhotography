@@ -1,8 +1,8 @@
 # Awesome-OpenSourcePhotography with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,295 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,295 | 🐛 106 | 📅 2026-08-21.
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21.
 
 * [General](#general)
 * [Camera Firmware Mods](#camera-firmware-mods)
@@ -50,7 +50,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Libraries
 
-* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,354 | 🐛 473 | 🌐 C | 📅 2026-08-17 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
+* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,355 | 🐛 473 | 🌐 C | 📅 2026-08-17 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
 
 ### Canon
 
@@ -80,10 +80,10 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## RAW image developers
 
+* [Raw Studio](https://github.com/rawstudio/rawstudio) ⭐ 91 | 🐛 22 | 🌐 C | 📅 2024-03-17 - Read and manipulate RAW images from digital cameras.
 * [Darktable](http://www.darktable.org/) - An open source photography workflow application and RAW developer.
 * [RawTherapee](http://rawtherapee.com/) - A cross-platform raw image processing program.
 * [Photivo](http://photivo.org/photivo/start?redirect=1) - A multi platform photo processor for RAW and bitmap images with 16 bit precision.
-* [Raw Studio](https://github.com/rawstudio/rawstudio) ⭐ 91 | 🐛 22 | 🌐 C | 📅 2024-03-17 - Read and manipulate RAW images from digital cameras.
 * [UFRaw](http://ufraw.sourceforge.net/) - A utility to read and manipulate raw images from digital cameras.
 * [DCRaw](http://www.cybercom.net/~dcoffin/dcraw/) - Decoding raw digital photos in Linux.
 * [Lightzone](http://lightzoneproject.org/) - Open-source digital darkroom software for Windows/Mac/Linux.
@@ -113,8 +113,8 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## EXIF Editors
 
+* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,157 | 🐛 208 | 🌐 C++ | 📅 2026-08-24  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
 * [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/) - A program for reading, writing, and manipulating image, audio, and video metadata.
-* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,157 | 🐛 209 | 🌐 C++ | 📅 2026-08-21  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
 
 ## Photo Downloaders
 
@@ -170,7 +170,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Compositing software
 
-* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 14,974 | 🐛 57 | 🌐 C++ | 📅 2026-08-22 - A free, open source, cross-platform video editor.
+* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 14,981 | 🐛 57 | 🌐 C++ | 📅 2026-08-22 - A free, open source, cross-platform video editor.
 * [Natron](https://github.com/MrKepzie/Natron) ⭐ 1,507 | 🐛 13 | 🌐 C++ | 📅 2018-09-30 - A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
 * [ButtleOFX](https://github.com/buttleofx/ButtleOFX) ⭐ 95 | 🐛 35 | 🌐 QML | 📅 2017-07-31 - A simple, user-friendly and open source compositing software.
 * [Blender](https://www.blender.org/) - This open source 3D graphics has tools for video editing.
@@ -206,4 +206,4 @@ make -f tmp/hugin.mk all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
