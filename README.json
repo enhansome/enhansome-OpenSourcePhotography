@@ -339,7 +339,7 @@
             "archived": false,
             "id": 89623031,
             "language": "C++",
-            "last_commit": "2026-08-24T21:15:26Z",
+            "last_commit": "2026-08-27T09:46:53Z",
             "owner": "Exiv2",
             "repo": "exiv2",
             "stars": 1157
@@ -386,7 +386,7 @@
                 "last_commit": "2026-08-25T19:51:46Z",
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 14998
+                "stars": 15003
               }
             },
             {
@@ -453,7 +453,7 @@
                 "last_commit": "2026-08-26T05:15:47Z",
                 "owner": "dyne",
                 "repo": "frei0r",
-                "stars": 586
+                "stars": 587
               }
             },
             {
@@ -481,9 +481,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:03:37.516Z",
-    "original_repository": "ibaaj/awesome-OpenSourcePhotography",
-    "original_repository_id": 39386696,
+    "last_updated": "2026-08-27T11:58:21.127Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 39386696,
+      "language": null,
+      "last_commit": "2026-04-19T21:43:56Z",
+      "owner": "ibaaj",
+      "repo": "awesome-OpenSourcePhotography",
+      "stars": 657
+    },
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
     "enhanced_repository": "enhansome/enhansome-OpenSourcePhotography",
     "enhanced_repository_description": null,
