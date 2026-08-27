@@ -213,7 +213,7 @@
             "last_commit": "2019-09-19T07:40:46Z",
             "owner": "michaelzoech",
             "repo": "remoteyourcam-usb",
-            "stars": 310
+            "stars": 311
           }
         },
         {
@@ -386,7 +386,7 @@
                 "last_commit": "2026-08-25T19:51:46Z",
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 14992
+                "stars": 14998
               }
             },
             {
@@ -450,7 +450,7 @@
                 "archived": false,
                 "id": 57671589,
                 "language": "C",
-                "last_commit": "2026-08-24T17:30:38Z",
+                "last_commit": "2026-08-26T05:15:47Z",
                 "owner": "dyne",
                 "repo": "frei0r",
                 "stars": 586
@@ -481,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:36:10.131Z",
+    "last_updated": "2026-08-27T03:03:37.516Z",
     "original_repository": "ibaaj/awesome-OpenSourcePhotography",
     "original_repository_id": 39386696,
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
