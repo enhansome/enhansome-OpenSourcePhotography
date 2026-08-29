@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Autoexec hack is a copilation of hacks for GoPro Cameras, like a GHDK (GoPro Hack Developer Kit).",
+            "homepage": "http://chernowii.com",
             "id": 14257787,
             "language": "AGS Script",
+            "license": "NOASSERTION",
             "last_commit": "2018-05-26T12:34:16Z",
+            "open_issues": 9,
             "owner": "KonradIT",
             "repo": "autoexechack",
-            "stars": 483
+            "stars": 483,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
         },
@@ -26,12 +31,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compilation of autoexec scripts and mods for Xiaomi Yi camera after reverse engineering of firmware.",
+            "homepage": null,
             "id": 42405042,
             "language": "AGS Script",
+            "license": null,
             "last_commit": "2024-07-04T07:58:41Z",
+            "open_issues": 4,
             "owner": "PJanisio",
             "repo": "Xiaomi_Yi_autoexec",
-            "stars": 312
+            "stars": 312,
+            "topics": [
+              "reverse-engineering",
+              "xiaomi",
+              "xiaomi-camera",
+              "xiaomi-firmware",
+              "xiaomi-sport",
+              "xiaomi-yi",
+              "xiaomi-yi-1"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
         }
@@ -48,12 +66,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The libgphoto2 camera access and control library.",
+            "homepage": null,
             "id": 40043855,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-17T17:13:58Z",
+            "open_issues": 476,
             "owner": "gphoto",
             "repo": "libgphoto2",
-            "stars": 1357
+            "stars": 1358,
+            "topics": [
+              "access",
+              "camera",
+              "canon",
+              "digital",
+              "dslr",
+              "eos",
+              "library",
+              "linux",
+              "nikon",
+              "pentax",
+              "powershot",
+              "sony",
+              "usb"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
         },
@@ -66,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Canon SDK for Java",
+                "homepage": null,
                 "id": 806326,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-15T13:31:54Z",
+                "open_issues": 9,
                 "owner": "kritzikratzi",
                 "repo": "edsdk4j",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
             },
@@ -82,12 +124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "openFrameworks addon for the Canon EDSK",
+                "homepage": "www.roxlu.com",
                 "id": 922869,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2011-11-04T13:48:41Z",
+                "open_issues": 3,
                 "owner": "diederickh",
                 "repo": "ofxCanon",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
             }
@@ -105,12 +152,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Python library for controlling GoPro cameras over http.",
+                "homepage": null,
                 "id": 12331593,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2017-02-06T17:56:13Z",
+                "open_issues": 14,
                 "owner": "joshvillbrandt",
                 "repo": "goprohero",
-                "stars": 271
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
             },
@@ -121,12 +173,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "API for controlling GoPro Hero 3 Camera from Node.js",
+                "homepage": null,
                 "id": 10201350,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-05-21T23:10:08Z",
+                "open_issues": 1,
                 "owner": "kschzt",
                 "repo": "gopro",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
             },
@@ -137,12 +194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":camera: GoPro Hero 4 - Python API",
+                "homepage": null,
                 "id": 26372133,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-05-14T18:06:01Z",
+                "open_issues": 6,
                 "owner": "DenisCarriere",
                 "repo": "gopro",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
             },
@@ -153,12 +215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a lightweight c# library to access and control GoPro HERO Action cameras",
+                "homepage": null,
                 "id": 11098257,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-06-22T17:58:37Z",
+                "open_issues": 10,
                 "owner": "r1pper",
                 "repo": "GoPro.Hero",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
             }
@@ -176,12 +243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python module for Sony Camera Remote API",
+                "homepage": null,
                 "id": 15408234,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2013-12-24T01:16:13Z",
+                "open_issues": 1,
                 "owner": "storborg",
                 "repo": "sonypy",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
             }
@@ -203,12 +275,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DSLR camera remote control open source software",
+            "homepage": "http://digicamcontrol.com/",
             "id": 20382227,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-26T06:28:15Z",
+            "open_issues": 128,
             "owner": "dukus",
             "repo": "digiCamControl",
-            "stars": 732
+            "stars": 732,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
         },
@@ -219,12 +296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Control your Canon or Nikon DSLR camera from your Android device through USB",
+            "homepage": null,
             "id": 10890058,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-09-19T07:40:46Z",
+            "open_issues": 0,
             "owner": "michaelzoech",
             "repo": "remoteyourcam-usb",
-            "stars": 311
+            "stars": 311,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
         },
@@ -235,12 +317,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android WiFi intervalometer for Sony cameras",
+            "homepage": null,
             "id": 15371977,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-28T13:46:40Z",
+            "open_issues": 18,
             "owner": "ThibaudM",
             "repo": "timelapse-sony",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "android",
+              "camera"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
         }
@@ -257,12 +347,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rawstudio is an open-source program to read and manipulate RAW images from digital cameras.",
+            "homepage": "http://rawstudio.org/",
             "id": 27089130,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2024-03-17T08:39:04Z",
+            "open_issues": 22,
             "owner": "rawstudio",
             "repo": "rawstudio",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "cr2",
+              "digital-camera",
+              "dng",
+              "nef",
+              "raw"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
         }
@@ -279,12 +380,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete workflow for HDR imaging",
+            "homepage": "http://qtpfsgui.sourceforge.net/",
             "id": 30804049,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-20T07:10:46Z",
+            "open_issues": 99,
             "owner": "LuminanceHDR",
             "repo": "LuminanceHDR",
-            "stars": 669
+            "stars": 669,
+            "topics": [
+              "c-plus-plus",
+              "desktop-application",
+              "graphics",
+              "hdr-imaging",
+              "qt5-gui",
+              "tone-mapping"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
         }
@@ -301,12 +414,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A premium app for managing and editing your photos, videos, GIFs without ads",
+            "homepage": "https://www.simplemobiletools.com",
             "id": 51870853,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-18T04:23:47Z",
+            "open_issues": 383,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4015
+            "stars": 4015,
+            "topics": [
+              "android",
+              "android-development",
+              "freedom",
+              "gallery",
+              "kotlin",
+              "open-source",
+              "video",
+              "viewing-photos"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
         },
@@ -317,12 +444,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LeafPic is a fluid, material-designed alternative gallery, it also is ad-free and open source under GPLv3 license. It doesn't miss any of the main features of a stock gallery, and we also have plans to add more useful features.",
+            "homepage": null,
             "id": 49219232,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-14T23:27:23Z",
+            "open_issues": 67,
             "owner": "UnevenSoftware",
             "repo": "LeafPic",
-            "stars": 3266
+            "stars": 3266,
+            "topics": [
+              "android",
+              "app",
+              "gallery",
+              "kotlin",
+              "material"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
         },
@@ -333,12 +471,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage local photos on Android: gallery, geotag with photomap, privacy, tags, find, sort, view, copy, send, ... .",
+            "homepage": null,
             "id": 39793957,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-08-14T08:52:22Z",
+            "open_issues": 47,
             "owner": "k3b",
             "repo": "APhotoManager",
-            "stars": 241
+            "stars": 241,
+            "topics": [
+              "android",
+              "backup",
+              "exif",
+              "gallery",
+              "geo-uri",
+              "geolocation",
+              "geotag",
+              "gpx",
+              "jpg",
+              "kml",
+              "locationpicker",
+              "map",
+              "map-viewer",
+              "openstreetmap",
+              "osm",
+              "photo-gallery",
+              "photo-manager",
+              "photos",
+              "privacy",
+              "xmp"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
         }
@@ -355,12 +519,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image metadata library and tools",
+            "homepage": "http://www.exiv2.org/",
             "id": 89623031,
             "language": "C++",
-            "last_commit": "2026-08-27T22:29:56Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T18:07:12Z",
+            "open_issues": 203,
             "owner": "Exiv2",
             "repo": "exiv2",
-            "stars": 1157
+            "stars": 1157,
+            "topics": [
+              "cli",
+              "exif",
+              "exif-interface",
+              "exif-metadata",
+              "image-metadata",
+              "iptc",
+              "iptc-metadata",
+              "xmp",
+              "xmp-metadata"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
         }
@@ -377,12 +556,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opensource 360° media viewer written in JavaScript using Electron and Marzipano",
+            "homepage": null,
             "id": 443812190,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-12T13:37:45Z",
+            "open_issues": 0,
             "owner": "TheGreyDiamond",
             "repo": "open360viewer",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
         }
@@ -401,12 +587,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cross-platform (Qt), open-source (GPLv3) video editor",
+                "homepage": "https://www.shotcut.org",
                 "id": 4118776,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T03:37:37Z",
+                "open_issues": 58,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15007
+                "stars": 15012,
+                "topics": [
+                  "cross-platform",
+                  "gplv3",
+                  "mlt",
+                  "shotcut",
+                  "video-editor"
+                ]
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
             },
@@ -417,12 +614,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.",
+                "homepage": "www.natron.fr",
                 "id": 9896583,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2018-09-30T20:43:46Z",
+                "open_issues": 13,
                 "owner": "MrKepzie",
                 "repo": "Natron",
-                "stars": 1508
+                "stars": 1508,
+                "topics": [
+                  "c-plus-plus",
+                  "cross-platform",
+                  "openfx",
+                  "vfx"
+                ]
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
             },
@@ -433,12 +640,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ButtleOFX is an open source compositing software.",
+                "homepage": "http://buttleofx.wordpress.com",
                 "id": 5021914,
                 "language": "QML",
+                "license": null,
                 "last_commit": "2017-07-31T17:56:07Z",
+                "open_issues": 35,
                 "owner": "buttleofx",
                 "repo": "ButtleOFX",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
             }
@@ -456,12 +668,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Video stabilization library",
+                "homepage": "http://public.hronopik.de/vid.stab/",
                 "id": 2846384,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-14T20:16:05Z",
+                "open_issues": 9,
                 "owner": "georgmartius",
                 "repo": "vid.stab",
-                "stars": 954
+                "stars": 954,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
             },
@@ -472,12 +689,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A large collection of free and portable video plugins",
+                "homepage": "https://dyne.org/frei0r/",
                 "id": 57671589,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-26T05:15:47Z",
+                "open_issues": 22,
                 "owner": "dyne",
                 "repo": "frei0r",
-                "stars": 586
+                "stars": 586,
+                "topics": [
+                  "dyne",
+                  "linux",
+                  "osx",
+                  "plugins",
+                  "video-effects",
+                  "video-filtering",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
             },
@@ -488,12 +718,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tuttle OFX is a library to connect and batch operations with OpenFx plugins. It comes with a set of plugins that allows you to batch process on movies and file sequences.",
+                "homepage": "www.TuttleOFX.org",
                 "id": 831162,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2020-08-13T16:44:36Z",
+                "open_issues": 112,
                 "owner": "tuttleofx",
                 "repo": "TuttleOFX",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
             }
@@ -507,15 +742,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:03:59.087Z",
+    "last_updated": "2026-08-29T03:38:36.574Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
+      "homepage": null,
       "id": 39386696,
       "language": null,
+      "license": null,
       "last_commit": "2026-04-19T21:43:56Z",
+      "open_issues": 3,
       "owner": "ibaaj",
       "repo": "awesome-OpenSourcePhotography",
-      "stars": 657
+      "stars": 657,
+      "topics": []
     },
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
     "enhanced_repository": "enhansome/enhansome-OpenSourcePhotography",
