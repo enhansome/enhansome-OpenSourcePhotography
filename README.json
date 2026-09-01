@@ -524,11 +524,11 @@
             "id": 89623031,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T20:55:28Z",
-            "open_issues": 206,
+            "last_commit": "2026-09-01T18:41:53Z",
+            "open_issues": 204,
             "owner": "Exiv2",
             "repo": "exiv2",
-            "stars": 1157,
+            "stars": 1158,
             "topics": [
               "cli",
               "exif",
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-31T23:03:15Z",
+                "last_commit": "2026-09-01T21:39:08Z",
                 "open_issues": 59,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15048,
+                "stars": 15055,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -695,7 +695,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-26T05:15:47Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "dyne",
                 "repo": "frei0r",
                 "stars": 586,
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:12:27.884Z",
+    "last_updated": "2026-09-01T23:58:40.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
