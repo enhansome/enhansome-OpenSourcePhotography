@@ -71,8 +71,8 @@
             "id": 40043855,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-08-17T17:13:58Z",
-            "open_issues": 476,
+            "last_commit": "2026-09-02T07:46:57Z",
+            "open_issues": 477,
             "owner": "gphoto",
             "repo": "libgphoto2",
             "stars": 1362,
@@ -326,7 +326,7 @@
             "open_issues": 18,
             "owner": "ThibaudM",
             "repo": "timelapse-sony",
-            "stars": 141,
+            "stars": 140,
             "topics": [
               "android",
               "camera"
@@ -524,8 +524,8 @@
             "id": 89623031,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T18:41:53Z",
-            "open_issues": 204,
+            "last_commit": "2026-09-02T15:39:33Z",
+            "open_issues": 203,
             "owner": "Exiv2",
             "repo": "exiv2",
             "stars": 1158,
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-01T21:39:08Z",
-                "open_issues": 59,
+                "last_commit": "2026-09-02T03:51:46Z",
+                "open_issues": 58,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15055,
+                "stars": 15062,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -677,7 +677,7 @@
                 "open_issues": 9,
                 "owner": "georgmartius",
                 "repo": "vid.stab",
-                "stars": 954,
+                "stars": 955,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:58:40.968Z",
+    "last_updated": "2026-09-03T00:01:55.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
