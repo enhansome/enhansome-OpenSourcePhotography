@@ -72,7 +72,7 @@
             "language": "C",
             "license": "LGPL-2.1",
             "last_commit": "2026-09-02T07:46:57Z",
-            "open_issues": 477,
+            "open_issues": 478,
             "owner": "gphoto",
             "repo": "libgphoto2",
             "stars": 1365,
@@ -305,7 +305,7 @@
             "open_issues": 0,
             "owner": "michaelzoech",
             "repo": "remoteyourcam-usb",
-            "stars": 311,
+            "stars": 312,
             "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
@@ -524,8 +524,8 @@
             "id": 89623031,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T15:46:24Z",
-            "open_issues": 206,
+            "last_commit": "2026-09-04T14:06:40Z",
+            "open_issues": 205,
             "owner": "Exiv2",
             "repo": "exiv2",
             "stars": 1158,
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T04:48:03Z",
-                "open_issues": 58,
+                "last_commit": "2026-09-04T21:25:50Z",
+                "open_issues": 57,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15070,
+                "stars": 15080,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -677,7 +677,7 @@
                 "open_issues": 9,
                 "owner": "georgmartius",
                 "repo": "vid.stab",
-                "stars": 955,
+                "stars": 956,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:56:49.344Z",
+    "last_updated": "2026-09-04T23:55:39.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
