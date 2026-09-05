@@ -423,7 +423,7 @@
             "open_issues": 383,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4013,
+            "stars": 4012,
             "topics": [
               "android",
               "android-development",
@@ -480,7 +480,7 @@
             "open_issues": 47,
             "owner": "k3b",
             "repo": "APhotoManager",
-            "stars": 241,
+            "stars": 240,
             "topics": [
               "android",
               "backup",
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T21:25:50Z",
-                "open_issues": 57,
+                "last_commit": "2026-09-05T23:37:16Z",
+                "open_issues": 53,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15080,
+                "stars": 15085,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -698,7 +698,7 @@
                 "open_issues": 23,
                 "owner": "dyne",
                 "repo": "frei0r",
-                "stars": 586,
+                "stars": 587,
                 "topics": [
                   "dyne",
                   "linux",
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:55:39.115Z",
+    "last_updated": "2026-09-05T23:45:51.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
