@@ -305,7 +305,7 @@
             "open_issues": 0,
             "owner": "michaelzoech",
             "repo": "remoteyourcam-usb",
-            "stars": 312,
+            "stars": 313,
             "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
@@ -525,7 +525,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-08T12:13:08Z",
-            "open_issues": 205,
+            "open_issues": 206,
             "owner": "Exiv2",
             "repo": "exiv2",
             "stars": 1160,
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-08T20:39:20Z",
-                "open_issues": 53,
+                "last_commit": "2026-09-09T01:52:02Z",
+                "open_issues": 51,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15110,
+                "stars": 15120,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -677,7 +677,7 @@
                 "open_issues": 9,
                 "owner": "georgmartius",
                 "repo": "vid.stab",
-                "stars": 956,
+                "stars": 957,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:02:19.100Z",
+    "last_updated": "2026-09-10T00:03:40.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
@@ -754,7 +754,7 @@
       "open_issues": 4,
       "owner": "ibaaj",
       "repo": "awesome-OpenSourcePhotography",
-      "stars": 660,
+      "stars": 661,
       "topics": []
     },
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
