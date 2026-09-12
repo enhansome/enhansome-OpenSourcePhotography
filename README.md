@@ -1,8 +1,8 @@
 # Awesome-OpenSourcePhotography with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,152 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,459 | 🐛 106 | 📅 2026-09-02
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,152 | 🐛 106 | 📅 2026-09-02.
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,459 | 🐛 106 | 📅 2026-09-02.
 
 * [General](#general)
 * [Camera Firmware Mods](#camera-firmware-mods)
@@ -50,7 +50,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Libraries
 
-* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,371 | 🐛 478 | 🌐 C | 📅 2026-09-02 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
+* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,374 | 🐛 478 | 🌐 C | 📅 2026-09-02 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
 
 ### Canon
 
@@ -70,7 +70,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Utilities
 
-* [digiCamControl](https://github.com/dukus/digiCamControl) ⭐ 733 | 🐛 128 | 🌐 C# | 📅 2025-05-26 - DSLR camera remote control open source software.
+* [digiCamControl](https://github.com/dukus/digiCamControl) ⭐ 734 | 🐛 128 | 🌐 C# | 📅 2025-05-26 - DSLR camera remote control open source software.
 * [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) ⭐ 313 | 🐛 0 | 🌐 Java | 📅 2019-09-19 - Control your Canon or Nikon DSLR camera from your Android device through USB.
 * [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) ⭐ 140 | 🐛 18 | 🌐 Java | 📅 2025-03-28 - Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.
 
@@ -103,8 +103,8 @@ A list of awesome free open source software & libraries for photography. Also to
 ## Photo Organizers
 
 * [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) ⭐ 4,016 | 🐛 384 | 🌐 Kotlin | 📅 2024-08-18 - A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
-* [Leaf Pic](https://github.com/HoraApps/LeafPic/) ⭐ 3,264 | 🐛 67 | 🌐 Java | 📅 2024-02-14 - Material-designed android gallery alternative.
-* [A Photo Manager](https://github.com/k3b/APhotoManager/) ⭐ 240 | 🐛 47 | 🌐 Java | 📅 2025-08-14 - Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...
+* [Leaf Pic](https://github.com/HoraApps/LeafPic/) ⭐ 3,265 | 🐛 67 | 🌐 Java | 📅 2024-02-14 - Material-designed android gallery alternative.
+* [A Photo Manager](https://github.com/k3b/APhotoManager/) ⭐ 241 | 🐛 47 | 🌐 Java | 📅 2025-08-14 - Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...
 * [Shotwell](http://yorba.org/shotwell/) - A photo manager for GNOME 3.
 * [DigiKam/ShowFoto](http://www.digikam.org/drupal/about?q=about/overview) - Open Source Photo manager for KDE/Gnome desktop.
 * [GPhoto](http://www.gphoto.org/) - A program and library framework that lets users download pictures from their digital cameras.
@@ -170,7 +170,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Compositing software
 
-* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,155 | 🐛 52 | 🌐 C++ | 📅 2026-09-10 - A free, open source, cross-platform video editor.
+* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,176 | 🐛 52 | 🌐 C++ | 📅 2026-09-12 - A free, open source, cross-platform video editor.
 * [Natron](https://github.com/MrKepzie/Natron) ⭐ 1,508 | 🐛 13 | 🌐 C++ | 📅 2018-09-30 - A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
 * [ButtleOFX](https://github.com/buttleofx/ButtleOFX) ⭐ 95 | 🐛 35 | 🌐 QML | 📅 2017-07-31 - A simple, user-friendly and open source compositing software.
 * [Blender](https://www.blender.org/) - This open source 3D graphics has tools for video editing.
