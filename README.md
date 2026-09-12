@@ -1,8 +1,8 @@
 # Awesome-OpenSourcePhotography with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,859 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,152 | 🐛 106 | 📅 2026-09-02
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,859 | 🐛 106 | 📅 2026-09-02.
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,152 | 🐛 106 | 📅 2026-09-02.
 
 * [General](#general)
 * [Camera Firmware Mods](#camera-firmware-mods)
@@ -42,7 +42,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ## Camera Firmware Mods
 
 * [Autoexec Hack](https://github.com/KonradIT/autoexechack) ⚠️ Archived - Compilation of hacks for GoPro Cameras.
-* [Xiaomi Yi Autoexec](https://github.com/PJanisio/Xiaomi_Yi_autoexec) ⭐ 312 | 🐛 4 | 🌐 AGS Script | 📅 2024-07-04 - Compilation of autoexec scripts and mods for Xiaomi Yi camera.
+* [Xiaomi Yi Autoexec](https://github.com/PJanisio/Xiaomi_Yi_autoexec) ⭐ 313 | 🐛 4 | 🌐 AGS Script | 📅 2024-07-04 - Compilation of autoexec scripts and mods for Xiaomi Yi camera.
 * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit, for Canon cameras.
 * [Magic Lantern](http://magiclantern.fm/) - A software enhancement that offers increased functionality to Canon DSLR cameras.
 * [PTool Firmware Manipulation Tool](http://www.gh1-hack.info/) - Change the video recording parameters of Panasonic's cameras.
@@ -50,7 +50,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Libraries
 
-* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,370 | 🐛 478 | 🌐 C | 📅 2026-09-02 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
+* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,371 | 🐛 478 | 🌐 C | 📅 2026-09-02 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
 
 ### Canon
 
@@ -102,7 +102,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Photo Organizers
 
-* [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) ⭐ 4,015 | 🐛 384 | 🌐 Kotlin | 📅 2024-08-18 - A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
+* [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) ⭐ 4,016 | 🐛 384 | 🌐 Kotlin | 📅 2024-08-18 - A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
 * [Leaf Pic](https://github.com/HoraApps/LeafPic/) ⭐ 3,264 | 🐛 67 | 🌐 Java | 📅 2024-02-14 - Material-designed android gallery alternative.
 * [A Photo Manager](https://github.com/k3b/APhotoManager/) ⭐ 240 | 🐛 47 | 🌐 Java | 📅 2025-08-14 - Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...
 * [Shotwell](http://yorba.org/shotwell/) - A photo manager for GNOME 3.
@@ -113,7 +113,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## EXIF Editors
 
-* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,159 | 🐛 209 | 🌐 C++ | 📅 2026-09-10  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
+* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,159 | 🐛 205 | 🌐 C++ | 📅 2026-09-11  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
 * [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/) - A program for reading, writing, and manipulating image, audio, and video metadata.
 
 ## Photo Downloaders
@@ -170,7 +170,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Compositing software
 
-* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,145 | 🐛 52 | 🌐 C++ | 📅 2026-09-10 - A free, open source, cross-platform video editor.
+* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,155 | 🐛 52 | 🌐 C++ | 📅 2026-09-10 - A free, open source, cross-platform video editor.
 * [Natron](https://github.com/MrKepzie/Natron) ⭐ 1,508 | 🐛 13 | 🌐 C++ | 📅 2018-09-30 - A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
 * [ButtleOFX](https://github.com/buttleofx/ButtleOFX) ⭐ 95 | 🐛 35 | 🌐 QML | 📅 2017-07-31 - A simple, user-friendly and open source compositing software.
 * [Blender](https://www.blender.org/) - This open source 3D graphics has tools for video editing.
@@ -206,4 +206,4 @@ make -f tmp/hugin.mk all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
