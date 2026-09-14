@@ -1,8 +1,8 @@
 # Awesome-OpenSourcePhotography with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,459 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,768 | 🐛 106 | 📅 2026-09-02
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,459 | 🐛 106 | 📅 2026-09-02.
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,768 | 🐛 106 | 📅 2026-09-02.
 
 * [General](#general)
 * [Camera Firmware Mods](#camera-firmware-mods)
@@ -42,7 +42,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ## Camera Firmware Mods
 
 * [Autoexec Hack](https://github.com/KonradIT/autoexechack) ⚠️ Archived - Compilation of hacks for GoPro Cameras.
-* [Xiaomi Yi Autoexec](https://github.com/PJanisio/Xiaomi_Yi_autoexec) ⭐ 313 | 🐛 4 | 🌐 AGS Script | 📅 2024-07-04 - Compilation of autoexec scripts and mods for Xiaomi Yi camera.
+* [Xiaomi Yi Autoexec](https://github.com/PJanisio/Xiaomi_Yi_autoexec) ⭐ 312 | 🐛 4 | 🌐 KoLMafia ASH | 📅 2026-09-13 - Compilation of autoexec scripts and mods for Xiaomi Yi camera.
 * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit, for Canon cameras.
 * [Magic Lantern](http://magiclantern.fm/) - A software enhancement that offers increased functionality to Canon DSLR cameras.
 * [PTool Firmware Manipulation Tool](http://www.gh1-hack.info/) - Change the video recording parameters of Panasonic's cameras.
@@ -66,7 +66,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Sony
 
-* [SonyPy](https://github.com/storborg/sonypy) ⭐ 63 | 🐛 1 | 🌐 Python | 📅 2013-12-24 - Python module for Sony Camera Remote API.
+* [SonyPy](https://github.com/storborg/sonypy) ⭐ 62 | 🐛 1 | 🌐 Python | 📅 2013-12-24 - Python module for Sony Camera Remote API.
 
 ## Utilities
 
@@ -91,7 +91,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## HDR Specific Software
 
-* [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) ⭐ 669 | 🐛 99 | 🌐 C++ | 📅 2026-05-20 - A complete workflow for HDR imaging.
+* [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) ⭐ 669 | 🐛 100 | 🌐 C++ | 📅 2026-05-20 - A complete workflow for HDR imaging.
 * [QPSFTMO](http://theplaceofdeadroads.blogspot.com/2006/07/qpfstmo-hdr-tone-mapping-gui-for-linux_04.html) - HDR Tone Mapping GUI for Linux.
 * [PFS Tools](http://pfstools.sourceforge.net/) - A set of command line programs for reading, writing and manipulating HDR images and video frames.
 
@@ -103,7 +103,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ## Photo Organizers
 
 * [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) ⭐ 4,016 | 🐛 384 | 🌐 Kotlin | 📅 2024-08-18 - A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
-* [Leaf Pic](https://github.com/HoraApps/LeafPic/) ⭐ 3,265 | 🐛 67 | 🌐 Java | 📅 2024-02-14 - Material-designed android gallery alternative.
+* [Leaf Pic](https://github.com/HoraApps/LeafPic/) ⭐ 3,264 | 🐛 67 | 🌐 Java | 📅 2024-02-14 - Material-designed android gallery alternative.
 * [A Photo Manager](https://github.com/k3b/APhotoManager/) ⭐ 241 | 🐛 47 | 🌐 Java | 📅 2025-08-14 - Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...
 * [Shotwell](http://yorba.org/shotwell/) - A photo manager for GNOME 3.
 * [DigiKam/ShowFoto](http://www.digikam.org/drupal/about?q=about/overview) - Open Source Photo manager for KDE/Gnome desktop.
@@ -113,7 +113,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## EXIF Editors
 
-* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,159 | 🐛 205 | 🌐 C++ | 📅 2026-09-11  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
+* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,160 | 🐛 206 | 🌐 C++ | 📅 2026-09-11  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
 * [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/) - A program for reading, writing, and manipulating image, audio, and video metadata.
 
 ## Photo Downloaders
@@ -170,16 +170,16 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Compositing software
 
-* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,176 | 🐛 52 | 🌐 C++ | 📅 2026-09-12 - A free, open source, cross-platform video editor.
+* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,194 | 🐛 52 | 🌐 C++ | 📅 2026-09-12 - A free, open source, cross-platform video editor.
 * [Natron](https://github.com/MrKepzie/Natron) ⭐ 1,508 | 🐛 13 | 🌐 C++ | 📅 2018-09-30 - A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
-* [ButtleOFX](https://github.com/buttleofx/ButtleOFX) ⭐ 95 | 🐛 35 | 🌐 QML | 📅 2017-07-31 - A simple, user-friendly and open source compositing software.
+* [ButtleOFX](https://github.com/buttleofx/ButtleOFX) ⭐ 96 | 🐛 35 | 🌐 QML | 📅 2017-07-31 - A simple, user-friendly and open source compositing software.
 * [Blender](https://www.blender.org/) - This open source 3D graphics has tools for video editing.
 
 ### Video Libraries
 
 * [Vid.stab](https://github.com/georgmartius/vid.stab) ⭐ 957 | 🐛 9 | 🌐 C | 📅 2026-08-14 - A video stabilization library which can be plugged-in with Ffmpeg and Transcode.
 * [Frei0r](https://github.com/dyne/frei0r) ⭐ 590 | 🐛 22 | 🌐 C | 📅 2026-09-08 - A large collection of free and portable video plugins.
-* [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) ⭐ 192 | 🐛 112 | 🌐 C++ | 📅 2020-08-13 - An image processing framework based on OpenFX plugin format.
+* [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) ⭐ 193 | 🐛 112 | 🌐 C++ | 📅 2020-08-13 - An image processing framework based on OpenFX plugin format.
 * [OpenFX](http://openfx.sourceforge.net/) - An Open Plug-in API for 2D Visual Effects.
 
 ## Scripts
@@ -206,4 +206,4 @@ make -f tmp/hugin.mk all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

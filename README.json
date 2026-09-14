@@ -34,13 +34,13 @@
             "description": "Compilation of autoexec scripts and mods for Xiaomi Yi camera after reverse engineering of firmware.",
             "homepage": null,
             "id": 42405042,
-            "language": "AGS Script",
+            "language": "KoLMafia ASH",
             "license": null,
-            "last_commit": "2024-07-04T07:58:41Z",
+            "last_commit": "2026-09-13T19:33:04Z",
             "open_issues": 4,
             "owner": "PJanisio",
             "repo": "Xiaomi_Yi_autoexec",
-            "stars": 313,
+            "stars": 312,
             "topics": [
               "reverse-engineering",
               "xiaomi",
@@ -252,7 +252,7 @@
                 "open_issues": 1,
                 "owner": "storborg",
                 "repo": "sonypy",
-                "stars": 63,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -386,7 +386,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-05-20T07:10:46Z",
-            "open_issues": 99,
+            "open_issues": 100,
             "owner": "LuminanceHDR",
             "repo": "LuminanceHDR",
             "stars": 669,
@@ -453,7 +453,7 @@
             "open_issues": 67,
             "owner": "UnevenSoftware",
             "repo": "LeafPic",
-            "stars": 3265,
+            "stars": 3264,
             "topics": [
               "android",
               "app",
@@ -525,10 +525,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T20:59:19Z",
-            "open_issues": 205,
+            "open_issues": 206,
             "owner": "Exiv2",
             "repo": "exiv2",
-            "stars": 1159,
+            "stars": 1160,
             "topics": [
               "cli",
               "exif",
@@ -596,7 +596,7 @@
                 "open_issues": 52,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15176,
+                "stars": 15194,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -649,7 +649,7 @@
                 "open_issues": 35,
                 "owner": "buttleofx",
                 "repo": "ButtleOFX",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -727,7 +727,7 @@
                 "open_issues": 112,
                 "owner": "tuttleofx",
                 "repo": "TuttleOFX",
-                "stars": 192,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:55:23.946Z",
+    "last_updated": "2026-09-14T00:03:57.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
