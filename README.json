@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "KonradIT",
             "repo": "autoexechack",
-            "stars": 483,
+            "stars": 484,
             "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
@@ -161,7 +161,7 @@
                 "open_issues": 14,
                 "owner": "joshvillbrandt",
                 "repo": "goprohero",
-                "stars": 271,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -423,7 +423,7 @@
             "open_issues": 384,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4016,
+            "stars": 4018,
             "topics": [
               "android",
               "android-development",
@@ -524,8 +524,8 @@
             "id": 89623031,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T20:59:19Z",
-            "open_issues": 206,
+            "last_commit": "2026-09-14T19:54:05Z",
+            "open_issues": 207,
             "owner": "Exiv2",
             "repo": "exiv2",
             "stars": 1160,
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T20:20:26Z",
+                "last_commit": "2026-09-14T04:19:12Z",
                 "open_issues": 52,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15194,
+                "stars": 15204,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -727,7 +727,7 @@
                 "open_issues": 112,
                 "owner": "tuttleofx",
                 "repo": "TuttleOFX",
-                "stars": 193,
+                "stars": 194,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:03:57.448Z",
+    "last_updated": "2026-09-15T00:28:24.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
