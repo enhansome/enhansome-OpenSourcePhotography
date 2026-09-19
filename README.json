@@ -75,7 +75,7 @@
             "open_issues": 478,
             "owner": "gphoto",
             "repo": "libgphoto2",
-            "stars": 1377,
+            "stars": 1378,
             "topics": [
               "access",
               "camera",
@@ -423,7 +423,7 @@
             "open_issues": 384,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4019,
+            "stars": 4020,
             "topics": [
               "android",
               "android-development",
@@ -477,7 +477,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2025-08-14T08:52:22Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "k3b",
             "repo": "APhotoManager",
             "stars": 241,
@@ -524,8 +524,8 @@
             "id": 89623031,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T19:17:17Z",
-            "open_issues": 204,
+            "last_commit": "2026-09-18T21:44:48Z",
+            "open_issues": 206,
             "owner": "Exiv2",
             "repo": "exiv2",
             "stars": 1163,
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T20:40:05Z",
-                "open_issues": 52,
+                "last_commit": "2026-09-18T17:47:34Z",
+                "open_issues": 53,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15229,
+                "stars": 15234,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:04:16.063Z",
+    "last_updated": "2026-09-19T00:09:02.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
