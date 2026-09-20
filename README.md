@@ -1,8 +1,8 @@
 # Awesome-OpenSourcePhotography with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,526 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,876 | 🐛 106 | 📅 2026-09-02
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,526 | 🐛 106 | 📅 2026-09-02.
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,876 | 🐛 106 | 📅 2026-09-02.
 
 * [General](#general)
 * [Camera Firmware Mods](#camera-firmware-mods)
@@ -50,7 +50,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Libraries
 
-* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,378 | 🐛 478 | 🌐 C | 📅 2026-09-02 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
+* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,379 | 🐛 478 | 🌐 C | 📅 2026-09-02 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
 
 ### Canon
 
@@ -72,7 +72,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 * [digiCamControl](https://github.com/dukus/digiCamControl) ⭐ 734 | 🐛 128 | 🌐 C# | 📅 2025-05-26 - DSLR camera remote control open source software.
 * [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) ⭐ 313 | 🐛 0 | 🌐 Java | 📅 2019-09-19 - Control your Canon or Nikon DSLR camera from your Android device through USB.
-* [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) ⭐ 140 | 🐛 18 | 🌐 Java | 📅 2025-03-28 - Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.
+* [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) ⭐ 141 | 🐛 18 | 🌐 Java | 📅 2025-03-28 - Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.
 
 ## Analogue photography
 
@@ -91,7 +91,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## HDR Specific Software
 
-* [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) ⭐ 669 | 🐛 100 | 🌐 C++ | 📅 2026-05-20 - A complete workflow for HDR imaging.
+* [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) ⭐ 670 | 🐛 100 | 🌐 C++ | 📅 2026-05-20 - A complete workflow for HDR imaging.
 * [QPSFTMO](http://theplaceofdeadroads.blogspot.com/2006/07/qpfstmo-hdr-tone-mapping-gui-for-linux_04.html) - HDR Tone Mapping GUI for Linux.
 * [PFS Tools](http://pfstools.sourceforge.net/) - A set of command line programs for reading, writing and manipulating HDR images and video frames.
 
@@ -102,7 +102,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Photo Organizers
 
-* [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) ⭐ 4,020 | 🐛 384 | 🌐 Kotlin | 📅 2024-08-18 - A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
+* [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) ⭐ 4,019 | 🐛 384 | 🌐 Kotlin | 📅 2024-08-18 - A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
 * [Leaf Pic](https://github.com/HoraApps/LeafPic/) ⭐ 3,264 | 🐛 67 | 🌐 Java | 📅 2024-02-14 - Material-designed android gallery alternative.
 * [A Photo Manager](https://github.com/k3b/APhotoManager/) ⭐ 241 | 🐛 48 | 🌐 Java | 📅 2025-08-14 - Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...
 * [Shotwell](http://yorba.org/shotwell/) - A photo manager for GNOME 3.
@@ -170,7 +170,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Compositing software
 
-* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,234 | 🐛 53 | 🌐 C++ | 📅 2026-09-18 - A free, open source, cross-platform video editor.
+* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,239 | 🐛 53 | 🌐 C++ | 📅 2026-09-18 - A free, open source, cross-platform video editor.
 * [Natron](https://github.com/MrKepzie/Natron) ⭐ 1,508 | 🐛 13 | 🌐 C++ | 📅 2018-09-30 - A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
 * [ButtleOFX](https://github.com/buttleofx/ButtleOFX) ⭐ 96 | 🐛 35 | 🌐 QML | 📅 2017-07-31 - A simple, user-friendly and open source compositing software.
 * [Blender](https://www.blender.org/) - This open source 3D graphics has tools for video editing.
@@ -178,8 +178,8 @@ A list of awesome free open source software & libraries for photography. Also to
 ### Video Libraries
 
 * [Vid.stab](https://github.com/georgmartius/vid.stab) ⭐ 958 | 🐛 9 | 🌐 C | 📅 2026-08-14 - A video stabilization library which can be plugged-in with Ffmpeg and Transcode.
-* [Frei0r](https://github.com/dyne/frei0r) ⭐ 590 | 🐛 24 | 🌐 C | 📅 2026-09-08 - A large collection of free and portable video plugins.
-* [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) ⭐ 194 | 🐛 112 | 🌐 C++ | 📅 2020-08-13 - An image processing framework based on OpenFX plugin format.
+* [Frei0r](https://github.com/dyne/frei0r) ⭐ 590 | 🐛 26 | 🌐 C | 📅 2026-09-08 - A large collection of free and portable video plugins.
+* [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) ⭐ 195 | 🐛 112 | 🌐 C++ | 📅 2020-08-13 - An image processing framework based on OpenFX plugin format.
 * [OpenFX](http://openfx.sourceforge.net/) - An Open Plug-in API for 2D Visual Effects.
 
 ## Scripts
@@ -206,4 +206,4 @@ make -f tmp/hugin.mk all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

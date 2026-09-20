@@ -75,7 +75,7 @@
             "open_issues": 478,
             "owner": "gphoto",
             "repo": "libgphoto2",
-            "stars": 1378,
+            "stars": 1379,
             "topics": [
               "access",
               "camera",
@@ -326,7 +326,7 @@
             "open_issues": 18,
             "owner": "ThibaudM",
             "repo": "timelapse-sony",
-            "stars": 140,
+            "stars": 141,
             "topics": [
               "android",
               "camera"
@@ -389,7 +389,7 @@
             "open_issues": 100,
             "owner": "LuminanceHDR",
             "repo": "LuminanceHDR",
-            "stars": 669,
+            "stars": 670,
             "topics": [
               "c-plus-plus",
               "desktop-application",
@@ -423,7 +423,7 @@
             "open_issues": 384,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4020,
+            "stars": 4019,
             "topics": [
               "android",
               "android-development",
@@ -596,7 +596,7 @@
                 "open_issues": 53,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15234,
+                "stars": 15239,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -695,7 +695,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-08T20:32:31Z",
-                "open_issues": 24,
+                "open_issues": 26,
                 "owner": "dyne",
                 "repo": "frei0r",
                 "stars": 590,
@@ -727,7 +727,7 @@
                 "open_issues": 112,
                 "owner": "tuttleofx",
                 "repo": "TuttleOFX",
-                "stars": 194,
+                "stars": 195,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:09:02.133Z",
+    "last_updated": "2026-09-20T00:03:23.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
@@ -754,7 +754,7 @@
       "open_issues": 5,
       "owner": "ibaaj",
       "repo": "awesome-OpenSourcePhotography",
-      "stars": 662,
+      "stars": 664,
       "topics": []
     },
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
