@@ -596,7 +596,7 @@
                 "open_issues": 49,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15256,
+                "stars": 15267,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -698,7 +698,7 @@
                 "open_issues": 25,
                 "owner": "dyne",
                 "repo": "frei0r",
-                "stars": 589,
+                "stars": 590,
                 "topics": [
                   "dyne",
                   "linux",
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:16:56.166Z",
+    "last_updated": "2026-09-24T00:23:49.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
