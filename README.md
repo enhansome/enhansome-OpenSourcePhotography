@@ -1,8 +1,8 @@
 # Awesome-OpenSourcePhotography with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,466 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,992 | 🐛 107 | 📅 2026-09-02
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,466 | 🐛 107 | 📅 2026-09-02.
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,992 | 🐛 107 | 📅 2026-09-02.
 
 * [General](#general)
 * [Camera Firmware Mods](#camera-firmware-mods)
@@ -35,7 +35,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ## General
 
 * [GIMP](http://www.gimp.org/) - A swiss knife for image manipulation.
-* [PhotoFlow](https://github.com/aferrero2707/PhotoFlow) ⭐ 349 | 🐛 99 | 🌐 C++ | 📅 2021-02-05 - A non-destructive photo retouching program including RAW image development.
+* [PhotoFlow](https://github.com/aferrero2707/PhotoFlow) ⭐ 348 | 🐛 99 | 🌐 C++ | 📅 2021-02-05 - A non-destructive photo retouching program including RAW image development.
 * [ImageMagick](http://www.imagemagick.org/) - A suite of command-line utilities for modifying and working with images.
 * [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is usually faster than ImageMagick.
 
@@ -50,7 +50,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Libraries
 
-* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,380 | 🐛 478 | 🌐 C | 📅 2026-09-20 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
+* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,379 | 🐛 478 | 🌐 C | 📅 2026-09-20 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
 
 ### Canon
 
@@ -80,7 +80,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## RAW image developers
 
-* [Raw Studio](https://github.com/rawstudio/rawstudio) ⭐ 91 | 🐛 22 | 🌐 C | 📅 2024-03-17 - Read and manipulate RAW images from digital cameras.
+* [Raw Studio](https://github.com/rawstudio/rawstudio) ⭐ 92 | 🐛 22 | 🌐 C | 📅 2024-03-17 - Read and manipulate RAW images from digital cameras.
 * [Darktable](http://www.darktable.org/) - An open source photography workflow application and RAW developer.
 * [RawTherapee](http://rawtherapee.com/) - A cross-platform raw image processing program.
 * [Photivo](http://photivo.org/photivo/start?redirect=1) - A multi platform photo processor for RAW and bitmap images with 16 bit precision.
@@ -102,7 +102,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Photo Organizers
 
-* [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) ⭐ 4,019 | 🐛 384 | 🌐 Kotlin | 📅 2024-08-18 - A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
+* [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) ⭐ 4,020 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
 * [Leaf Pic](https://github.com/HoraApps/LeafPic/) ⭐ 3,263 | 🐛 67 | 🌐 Java | 📅 2024-02-14 - Material-designed android gallery alternative.
 * [A Photo Manager](https://github.com/k3b/APhotoManager/) ⭐ 241 | 🐛 48 | 🌐 Java | 📅 2025-08-14 - Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...
 * [Shotwell](http://yorba.org/shotwell/) - A photo manager for GNOME 3.
@@ -113,7 +113,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## EXIF Editors
 
-* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,165 | 🐛 210 | 🌐 C++ | 📅 2026-09-25  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
+* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,166 | 🐛 209 | 🌐 C++ | 📅 2026-09-25  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
 * [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/) - A program for reading, writing, and manipulating image, audio, and video metadata.
 
 ## Photo Downloaders
@@ -170,15 +170,15 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Compositing software
 
-* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,276 | 🐛 49 | 🌐 C++ | 📅 2026-09-24 - A free, open source, cross-platform video editor.
+* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,279 | 🐛 49 | 🌐 C++ | 📅 2026-09-26 - A free, open source, cross-platform video editor.
 * [Natron](https://github.com/MrKepzie/Natron) ⭐ 1,508 | 🐛 13 | 🌐 C++ | 📅 2018-09-30 - A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
-* [ButtleOFX](https://github.com/buttleofx/ButtleOFX) ⭐ 96 | 🐛 35 | 🌐 QML | 📅 2017-07-31 - A simple, user-friendly and open source compositing software.
+* [ButtleOFX](https://github.com/buttleofx/ButtleOFX) ⭐ 97 | 🐛 35 | 🌐 QML | 📅 2017-07-31 - A simple, user-friendly and open source compositing software.
 * [Blender](https://www.blender.org/) - This open source 3D graphics has tools for video editing.
 
 ### Video Libraries
 
-* [Vid.stab](https://github.com/georgmartius/vid.stab) ⭐ 960 | 🐛 9 | 🌐 C | 📅 2026-08-14 - A video stabilization library which can be plugged-in with Ffmpeg and Transcode.
-* [Frei0r](https://github.com/dyne/frei0r) ⭐ 590 | 🐛 25 | 🌐 C | 📅 2026-09-20 - A large collection of free and portable video plugins.
+* [Vid.stab](https://github.com/georgmartius/vid.stab) ⭐ 961 | 🐛 9 | 🌐 C | 📅 2026-08-14 - A video stabilization library which can be plugged-in with Ffmpeg and Transcode.
+* [Frei0r](https://github.com/dyne/frei0r) ⭐ 590 | 🐛 23 | 🌐 C | 📅 2026-09-26 - A large collection of free and portable video plugins.
 * [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) ⭐ 195 | 🐛 112 | 🌐 C++ | 📅 2020-08-13 - An image processing framework based on OpenFX plugin format.
 * [OpenFX](http://openfx.sourceforge.net/) - An Open Plug-in API for 2D Visual Effects.
 
@@ -206,4 +206,4 @@ make -f tmp/hugin.mk all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
