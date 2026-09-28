@@ -75,7 +75,7 @@
             "open_issues": 478,
             "owner": "gphoto",
             "repo": "libgphoto2",
-            "stars": 1379,
+            "stars": 1380,
             "topics": [
               "access",
               "camera",
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-26T17:04:33Z",
+                "last_commit": "2026-09-27T22:46:08Z",
                 "open_issues": 49,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15279,
+                "stars": 15283,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -623,7 +623,7 @@
                 "open_issues": 13,
                 "owner": "MrKepzie",
                 "repo": "Natron",
-                "stars": 1508,
+                "stars": 1509,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -677,7 +677,7 @@
                 "open_issues": 9,
                 "owner": "georgmartius",
                 "repo": "vid.stab",
-                "stars": 961,
+                "stars": 962,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -694,8 +694,8 @@
                 "id": 57671589,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-26T19:36:31Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-27T19:41:00Z",
+                "open_issues": 22,
                 "owner": "dyne",
                 "repo": "frei0r",
                 "stars": 590,
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:26:02.964Z",
+    "last_updated": "2026-09-28T00:31:10.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
