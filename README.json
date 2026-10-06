@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:10:52.422Z",
+    "last_updated": "2026-10-06T10:15:37.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
@@ -751,10 +751,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-19T21:43:56Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "ibaaj",
       "repo": "awesome-OpenSourcePhotography",
-      "stars": 670,
+      "stars": 671,
       "topics": []
     },
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
