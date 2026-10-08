@@ -423,7 +423,7 @@
             "open_issues": 383,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4027,
+            "stars": 4026,
             "topics": [
               "android",
               "android-development",
@@ -528,7 +528,7 @@
             "open_issues": 213,
             "owner": "Exiv2",
             "repo": "exiv2",
-            "stars": 1166,
+            "stars": 1167,
             "topics": [
               "cli",
               "exif",
@@ -596,7 +596,7 @@
                 "open_issues": 51,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15362,
+                "stars": 15364,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -623,7 +623,7 @@
                 "open_issues": 13,
                 "owner": "MrKepzie",
                 "repo": "Natron",
-                "stars": 1510,
+                "stars": 1509,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:24:08.297Z",
+    "last_updated": "2026-10-08T01:46:37.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
@@ -754,7 +754,7 @@
       "open_issues": 7,
       "owner": "ibaaj",
       "repo": "awesome-OpenSourcePhotography",
-      "stars": 671,
+      "stars": 672,
       "topics": []
     },
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
