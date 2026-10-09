@@ -75,7 +75,7 @@
             "open_issues": 474,
             "owner": "gphoto",
             "repo": "libgphoto2",
-            "stars": 1385,
+            "stars": 1387,
             "topics": [
               "access",
               "camera",
@@ -305,7 +305,7 @@
             "open_issues": 0,
             "owner": "michaelzoech",
             "repo": "remoteyourcam-usb",
-            "stars": 313,
+            "stars": 314,
             "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
@@ -453,7 +453,7 @@
             "open_issues": 67,
             "owner": "UnevenSoftware",
             "repo": "LeafPic",
-            "stars": 3261,
+            "stars": 3262,
             "topics": [
               "android",
               "app",
@@ -524,11 +524,11 @@
             "id": 89623031,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T12:21:41Z",
-            "open_issues": 213,
+            "last_commit": "2026-10-08T09:35:25Z",
+            "open_issues": 215,
             "owner": "Exiv2",
             "repo": "exiv2",
-            "stars": 1167,
+            "stars": 1166,
             "topics": [
               "cli",
               "exif",
@@ -596,7 +596,7 @@
                 "open_issues": 51,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15364,
+                "stars": 15368,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:46:37.301Z",
+    "last_updated": "2026-10-09T01:58:14.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
