@@ -281,7 +281,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2025-05-26T06:28:15Z",
-            "open_issues": 128,
+            "open_issues": 134,
             "owner": "dukus",
             "repo": "digiCamControl",
             "stars": 734,
@@ -453,7 +453,7 @@
             "open_issues": 67,
             "owner": "UnevenSoftware",
             "repo": "LeafPic",
-            "stars": 3262,
+            "stars": 3261,
             "topics": [
               "android",
               "app",
@@ -524,7 +524,7 @@
             "id": 89623031,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T09:35:25Z",
+            "last_commit": "2026-10-09T13:44:15Z",
             "open_issues": 215,
             "owner": "Exiv2",
             "repo": "exiv2",
@@ -593,10 +593,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-06T19:36:06Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15368,
+                "stars": 15379,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -677,7 +677,7 @@
                 "open_issues": 9,
                 "owner": "georgmartius",
                 "repo": "vid.stab",
-                "stars": 963,
+                "stars": 964,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T01:58:14.388Z",
+    "last_updated": "2026-10-10T01:39:36.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
@@ -754,7 +754,7 @@
       "open_issues": 7,
       "owner": "ibaaj",
       "repo": "awesome-OpenSourcePhotography",
-      "stars": 672,
+      "stars": 673,
       "topics": []
     },
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
