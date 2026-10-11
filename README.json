@@ -75,7 +75,7 @@
             "open_issues": 474,
             "owner": "gphoto",
             "repo": "libgphoto2",
-            "stars": 1387,
+            "stars": 1388,
             "topics": [
               "access",
               "camera",
@@ -281,7 +281,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2025-05-26T06:28:15Z",
-            "open_issues": 134,
+            "open_issues": 137,
             "owner": "dukus",
             "repo": "digiCamControl",
             "stars": 734,
@@ -423,7 +423,7 @@
             "open_issues": 383,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4026,
+            "stars": 4025,
             "topics": [
               "android",
               "android-development",
@@ -524,8 +524,8 @@
             "id": 89623031,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T13:44:15Z",
-            "open_issues": 215,
+            "last_commit": "2026-10-10T16:55:34Z",
+            "open_issues": 217,
             "owner": "Exiv2",
             "repo": "exiv2",
             "stars": 1166,
@@ -596,7 +596,7 @@
                 "open_issues": 52,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15379,
+                "stars": 15386,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -695,7 +695,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-06T13:09:51Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "dyne",
                 "repo": "frei0r",
                 "stars": 593,
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:39:36.154Z",
+    "last_updated": "2026-10-11T00:49:24.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
@@ -751,10 +751,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-19T21:43:56Z",
-      "open_issues": 7,
+      "open_issues": 10,
       "owner": "ibaaj",
       "repo": "awesome-OpenSourcePhotography",
-      "stars": 673,
+      "stars": 674,
       "topics": []
     },
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
