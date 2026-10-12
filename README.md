@@ -1,8 +1,8 @@
 # Awesome-OpenSourcePhotography with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,252 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,709 | 🐛 105 | 📅 2026-09-02
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,252 | 🐛 106 | 📅 2026-09-02.
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,709 | 🐛 105 | 📅 2026-09-02.
 
 * [General](#general)
 * [Camera Firmware Mods](#camera-firmware-mods)
@@ -50,7 +50,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Libraries
 
-* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,388 | 🐛 474 | 🌐 C | 📅 2026-10-05 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
+* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,388 | 🐛 473 | 🌐 C | 📅 2026-10-05 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
 
 ### Canon
 
@@ -102,8 +102,8 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Photo Organizers
 
-* [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) ⭐ 4,025 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
-* [Leaf Pic](https://github.com/HoraApps/LeafPic/) ⭐ 3,261 | 🐛 67 | 🌐 Java | 📅 2024-02-14 - Material-designed android gallery alternative.
+* [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) ⭐ 4,027 | 🐛 383 | 🌐 Kotlin | 📅 2024-08-18 - A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
+* [Leaf Pic](https://github.com/HoraApps/LeafPic/) ⭐ 3,260 | 🐛 67 | 🌐 Java | 📅 2024-02-14 - Material-designed android gallery alternative.
 * [A Photo Manager](https://github.com/k3b/APhotoManager/) ⭐ 241 | 🐛 48 | 🌐 Java | 📅 2025-08-14 - Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...
 * [Shotwell](http://yorba.org/shotwell/) - A photo manager for GNOME 3.
 * [DigiKam/ShowFoto](http://www.digikam.org/drupal/about?q=about/overview) - Open Source Photo manager for KDE/Gnome desktop.
@@ -170,14 +170,14 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Compositing software
 
-* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,386 | 🐛 52 | 🌐 C++ | 📅 2026-10-06 - A free, open source, cross-platform video editor.
+* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,399 | 🐛 52 | 🌐 C++ | 📅 2026-10-11 - A free, open source, cross-platform video editor.
 * [Natron](https://github.com/MrKepzie/Natron) ⭐ 1,509 | 🐛 13 | 🌐 C++ | 📅 2018-09-30 - A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
 * [ButtleOFX](https://github.com/buttleofx/ButtleOFX) ⭐ 97 | 🐛 35 | 🌐 QML | 📅 2017-07-31 - A simple, user-friendly and open source compositing software.
 * [Blender](https://www.blender.org/) - This open source 3D graphics has tools for video editing.
 
 ### Video Libraries
 
-* [Vid.stab](https://github.com/georgmartius/vid.stab) ⭐ 964 | 🐛 9 | 🌐 C | 📅 2026-08-14 - A video stabilization library which can be plugged-in with Ffmpeg and Transcode.
+* [Vid.stab](https://github.com/georgmartius/vid.stab) ⭐ 965 | 🐛 9 | 🌐 C | 📅 2026-08-14 - A video stabilization library which can be plugged-in with Ffmpeg and Transcode.
 * [Frei0r](https://github.com/dyne/frei0r) ⭐ 593 | 🐛 26 | 🌐 C | 📅 2026-10-06 - A large collection of free and portable video plugins.
 * [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) ⭐ 195 | 🐛 112 | 🌐 C++ | 📅 2020-08-13 - An image processing framework based on OpenFX plugin format.
 * [OpenFX](http://openfx.sourceforge.net/) - An Open Plug-in API for 2D Visual Effects.
@@ -206,4 +206,4 @@ make -f tmp/hugin.mk all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
