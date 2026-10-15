@@ -280,8 +280,8 @@
             "id": 20382227,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2025-05-26T06:28:15Z",
-            "open_issues": 137,
+            "last_commit": "2026-10-14T15:41:11Z",
+            "open_issues": 135,
             "owner": "dukus",
             "repo": "digiCamControl",
             "stars": 733,
@@ -305,7 +305,7 @@
             "open_issues": 0,
             "owner": "michaelzoech",
             "repo": "remoteyourcam-usb",
-            "stars": 314,
+            "stars": 315,
             "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
@@ -524,8 +524,8 @@
             "id": 89623031,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T23:57:01Z",
-            "open_issues": 218,
+            "last_commit": "2026-10-14T21:46:29Z",
+            "open_issues": 217,
             "owner": "Exiv2",
             "repo": "exiv2",
             "stars": 1167,
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T18:46:27Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-15T00:03:02Z",
+                "open_issues": 54,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15414,
+                "stars": 15422,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -695,7 +695,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-06T13:09:51Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "dyne",
                 "repo": "frei0r",
                 "stars": 593,
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T01:05:46.239Z",
+    "last_updated": "2026-10-15T00:25:39.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
@@ -754,7 +754,7 @@
       "open_issues": 10,
       "owner": "ibaaj",
       "repo": "awesome-OpenSourcePhotography",
-      "stars": 674,
+      "stars": 675,
       "topics": []
     },
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",

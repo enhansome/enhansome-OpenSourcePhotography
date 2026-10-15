@@ -1,8 +1,8 @@
 # Awesome-OpenSourcePhotography with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,669 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,017 | 🐛 105 | 📅 2026-09-02
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,669 | 🐛 105 | 📅 2026-09-02.
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,017 | 🐛 105 | 📅 2026-09-02.
 
 * [General](#general)
 * [Camera Firmware Mods](#camera-firmware-mods)
@@ -70,8 +70,8 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Utilities
 
-* [digiCamControl](https://github.com/dukus/digiCamControl) ⭐ 733 | 🐛 137 | 🌐 C# | 📅 2025-05-26 - DSLR camera remote control open source software.
-* [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) ⭐ 314 | 🐛 0 | 🌐 Java | 📅 2019-09-19 - Control your Canon or Nikon DSLR camera from your Android device through USB.
+* [digiCamControl](https://github.com/dukus/digiCamControl) ⭐ 733 | 🐛 135 | 🌐 C# | 📅 2026-10-14 - DSLR camera remote control open source software.
+* [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) ⭐ 315 | 🐛 0 | 🌐 Java | 📅 2019-09-19 - Control your Canon or Nikon DSLR camera from your Android device through USB.
 * [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) ⭐ 141 | 🐛 18 | 🌐 Java | 📅 2025-03-28 - Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.
 
 ## Analogue photography
@@ -113,7 +113,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## EXIF Editors
 
-* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,167 | 🐛 218 | 🌐 C++ | 📅 2026-10-13  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
+* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,167 | 🐛 217 | 🌐 C++ | 📅 2026-10-14  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
 * [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/) - A program for reading, writing, and manipulating image, audio, and video metadata.
 
 ## Photo Downloaders
@@ -170,7 +170,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Compositing software
 
-* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,414 | 🐛 55 | 🌐 C++ | 📅 2026-10-13 - A free, open source, cross-platform video editor.
+* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,422 | 🐛 54 | 🌐 C++ | 📅 2026-10-15 - A free, open source, cross-platform video editor.
 * [Natron](https://github.com/MrKepzie/Natron) ⭐ 1,508 | 🐛 13 | 🌐 C++ | 📅 2018-09-30 - A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
 * [ButtleOFX](https://github.com/buttleofx/ButtleOFX) ⭐ 97 | 🐛 35 | 🌐 QML | 📅 2017-07-31 - A simple, user-friendly and open source compositing software.
 * [Blender](https://www.blender.org/) - This open source 3D graphics has tools for video editing.
@@ -178,7 +178,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ### Video Libraries
 
 * [Vid.stab](https://github.com/georgmartius/vid.stab) ⭐ 965 | 🐛 9 | 🌐 C | 📅 2026-08-14 - A video stabilization library which can be plugged-in with Ffmpeg and Transcode.
-* [Frei0r](https://github.com/dyne/frei0r) ⭐ 593 | 🐛 26 | 🌐 C | 📅 2026-10-06 - A large collection of free and portable video plugins.
+* [Frei0r](https://github.com/dyne/frei0r) ⭐ 593 | 🐛 27 | 🌐 C | 📅 2026-10-06 - A large collection of free and portable video plugins.
 * [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) ⭐ 195 | 🐛 112 | 🌐 C++ | 📅 2020-08-13 - An image processing framework based on OpenFX plugin format.
 * [OpenFX](http://openfx.sourceforge.net/) - An Open Plug-in API for 2D Visual Effects.
 
@@ -206,4 +206,4 @@ make -f tmp/hugin.mk all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
