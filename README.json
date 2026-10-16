@@ -280,8 +280,8 @@
             "id": 20382227,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T15:41:11Z",
-            "open_issues": 135,
+            "last_commit": "2026-10-15T08:54:10Z",
+            "open_issues": 133,
             "owner": "dukus",
             "repo": "digiCamControl",
             "stars": 733,
@@ -305,7 +305,7 @@
             "open_issues": 0,
             "owner": "michaelzoech",
             "repo": "remoteyourcam-usb",
-            "stars": 315,
+            "stars": 314,
             "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
@@ -423,7 +423,7 @@
             "open_issues": 383,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4031,
+            "stars": 4028,
             "topics": [
               "android",
               "android-development",
@@ -524,8 +524,8 @@
             "id": 89623031,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T21:46:29Z",
-            "open_issues": 217,
+            "last_commit": "2026-10-15T15:55:03Z",
+            "open_issues": 215,
             "owner": "Exiv2",
             "repo": "exiv2",
             "stars": 1167,
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-15T00:03:02Z",
+                "last_commit": "2026-10-15T14:21:38Z",
                 "open_issues": 54,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15422,
+                "stars": 15429,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:25:39.273Z",
+    "last_updated": "2026-10-16T00:15:24.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
