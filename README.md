@@ -1,8 +1,8 @@
 # Awesome-OpenSourcePhotography with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,173 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,661 | 🐛 105 | 📅 2026-09-02
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,173 | 🐛 105 | 📅 2026-09-02.
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,661 | 🐛 105 | 📅 2026-09-02.
 
 * [General](#general)
 * [Camera Firmware Mods](#camera-firmware-mods)
@@ -50,7 +50,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Libraries
 
-* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,394 | 🐛 474 | 🌐 C | 📅 2026-10-19 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
+* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,395 | 🐛 477 | 🌐 C | 📅 2026-10-19 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
 
 ### Canon
 
@@ -113,7 +113,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## EXIF Editors
 
-* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,168 | 🐛 230 | 🌐 C++ | 📅 2026-10-22  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
+* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,168 | 🐛 231 | 🌐 C++ | 📅 2026-10-22  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
 * [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/) - A program for reading, writing, and manipulating image, audio, and video metadata.
 
 ## Photo Downloaders
@@ -170,7 +170,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Compositing software
 
-* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,474 | 🐛 51 | 🌐 C++ | 📅 2026-10-22 - A free, open source, cross-platform video editor.
+* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,481 | 🐛 51 | 🌐 C++ | 📅 2026-10-22 - A free, open source, cross-platform video editor.
 * [Natron](https://github.com/MrKepzie/Natron) ⭐ 1,508 | 🐛 13 | 🌐 C++ | 📅 2018-09-30 - A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
 * [ButtleOFX](https://github.com/buttleofx/ButtleOFX) ⭐ 97 | 🐛 35 | 🌐 QML | 📅 2017-07-31 - A simple, user-friendly and open source compositing software.
 * [Blender](https://www.blender.org/) - This open source 3D graphics has tools for video editing.
@@ -206,4 +206,4 @@ make -f tmp/hugin.mk all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

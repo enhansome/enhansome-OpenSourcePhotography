@@ -72,10 +72,10 @@
             "language": "C",
             "license": "LGPL-2.1",
             "last_commit": "2026-10-19T13:32:42Z",
-            "open_issues": 474,
+            "open_issues": 477,
             "owner": "gphoto",
             "repo": "libgphoto2",
-            "stars": 1394,
+            "stars": 1395,
             "topics": [
               "access",
               "camera",
@@ -525,7 +525,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T09:55:54Z",
-            "open_issues": 230,
+            "open_issues": 231,
             "owner": "Exiv2",
             "repo": "exiv2",
             "stars": 1168,
@@ -596,7 +596,7 @@
                 "open_issues": 51,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15474,
+                "stars": 15481,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:32:16.247Z",
+    "last_updated": "2026-10-24T00:28:14.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
