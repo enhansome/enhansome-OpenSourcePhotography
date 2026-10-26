@@ -75,7 +75,7 @@
             "open_issues": 469,
             "owner": "gphoto",
             "repo": "libgphoto2",
-            "stars": 1396,
+            "stars": 1397,
             "topics": [
               "access",
               "camera",
@@ -480,7 +480,7 @@
             "open_issues": 48,
             "owner": "k3b",
             "repo": "APhotoManager",
-            "stars": 242,
+            "stars": 243,
             "topics": [
               "android",
               "backup",
@@ -525,7 +525,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T09:55:54Z",
-            "open_issues": 232,
+            "open_issues": 233,
             "owner": "Exiv2",
             "repo": "exiv2",
             "stars": 1168,
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-24T17:18:49Z",
+                "last_commit": "2026-10-25T23:57:57Z",
                 "open_issues": 51,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15490,
+                "stars": 15499,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -695,7 +695,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-06T13:09:51Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "dyne",
                 "repo": "frei0r",
                 "stars": 595,
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:12:33.293Z",
+    "last_updated": "2026-10-26T00:05:48.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
