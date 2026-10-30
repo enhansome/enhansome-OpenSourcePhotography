@@ -71,11 +71,11 @@
             "id": 40043855,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-26T14:12:51Z",
-            "open_issues": 478,
+            "last_commit": "2026-10-29T10:48:36Z",
+            "open_issues": 474,
             "owner": "gphoto",
             "repo": "libgphoto2",
-            "stars": 1403,
+            "stars": 1405,
             "topics": [
               "access",
               "camera",
@@ -420,10 +420,10 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2024-08-18T04:23:47Z",
-            "open_issues": 383,
+            "open_issues": 382,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4032,
+            "stars": 4034,
             "topics": [
               "android",
               "android-development",
@@ -528,7 +528,7 @@
             "open_issues": 234,
             "owner": "Exiv2",
             "repo": "exiv2",
-            "stars": 1169,
+            "stars": 1170,
             "topics": [
               "cli",
               "exif",
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T01:31:13Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-29T23:57:57Z",
+                "open_issues": 49,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15528,
+                "stars": 15536,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:42:10.339Z",
+    "last_updated": "2026-10-30T01:50:19.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
