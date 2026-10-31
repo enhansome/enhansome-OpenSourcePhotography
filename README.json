@@ -72,7 +72,7 @@
             "language": "C",
             "license": "LGPL-2.1",
             "last_commit": "2026-10-29T10:48:36Z",
-            "open_issues": 474,
+            "open_issues": 475,
             "owner": "gphoto",
             "repo": "libgphoto2",
             "stars": 1405,
@@ -305,7 +305,7 @@
             "open_issues": 0,
             "owner": "michaelzoech",
             "repo": "remoteyourcam-usb",
-            "stars": 312,
+            "stars": 313,
             "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
@@ -423,7 +423,7 @@
             "open_issues": 382,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4034,
+            "stars": 4032,
             "topics": [
               "android",
               "android-development",
@@ -524,7 +524,7 @@
             "id": 89623031,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T09:46:13Z",
+            "last_commit": "2026-10-30T23:06:09Z",
             "open_issues": 234,
             "owner": "Exiv2",
             "repo": "exiv2",
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T23:57:57Z",
+                "last_commit": "2026-10-31T00:24:00Z",
                 "open_issues": 49,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15536,
+                "stars": 15541,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T01:50:19.664Z",
+    "last_updated": "2026-10-31T01:29:38.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
