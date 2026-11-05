@@ -72,10 +72,10 @@
             "language": "C",
             "license": "LGPL-2.1",
             "last_commit": "2026-11-01T10:38:04Z",
-            "open_issues": 476,
+            "open_issues": 478,
             "owner": "gphoto",
             "repo": "libgphoto2",
-            "stars": 1411,
+            "stars": 1414,
             "topics": [
               "access",
               "camera",
@@ -281,10 +281,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T18:40:44Z",
-            "open_issues": 133,
+            "open_issues": 134,
             "owner": "dukus",
             "repo": "digiCamControl",
-            "stars": 736,
+            "stars": 737,
             "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
@@ -525,7 +525,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-03T20:01:21Z",
-            "open_issues": 229,
+            "open_issues": 228,
             "owner": "Exiv2",
             "repo": "exiv2",
             "stars": 1171,
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-02T16:19:12Z",
+                "last_commit": "2026-11-04T02:15:29Z",
                 "open_issues": 44,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15589,
+                "stars": 15597,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -623,7 +623,7 @@
                 "open_issues": 13,
                 "owner": "MrKepzie",
                 "repo": "Natron",
-                "stars": 1509,
+                "stars": 1510,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -677,7 +677,7 @@
                 "open_issues": 10,
                 "owner": "georgmartius",
                 "repo": "vid.stab",
-                "stars": 978,
+                "stars": 986,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -694,8 +694,8 @@
                 "id": 57671589,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-06T13:09:51Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-04T17:46:50Z",
+                "open_issues": 25,
                 "owner": "dyne",
                 "repo": "frei0r",
                 "stars": 595,
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:07:53.017Z",
+    "last_updated": "2026-11-05T02:13:03.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
