@@ -528,7 +528,7 @@
             "open_issues": 228,
             "owner": "Exiv2",
             "repo": "exiv2",
-            "stars": 1170,
+            "stars": 1171,
             "topics": [
               "cli",
               "exif",
@@ -596,7 +596,7 @@
                 "open_issues": 44,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15622,
+                "stars": 15628,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -698,7 +698,7 @@
                 "open_issues": 23,
                 "owner": "dyne",
                 "repo": "frei0r",
-                "stars": 594,
+                "stars": 595,
                 "topics": [
                   "dyne",
                   "linux",
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T01:46:14.203Z",
+    "last_updated": "2026-11-08T01:16:47.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
@@ -754,7 +754,7 @@
       "open_issues": 14,
       "owner": "ibaaj",
       "repo": "awesome-OpenSourcePhotography",
-      "stars": 678,
+      "stars": 679,
       "topics": []
     },
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
