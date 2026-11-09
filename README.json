@@ -71,11 +71,11 @@
             "id": 40043855,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-01T10:38:04Z",
-            "open_issues": 478,
+            "last_commit": "2026-11-08T12:37:53Z",
+            "open_issues": 466,
             "owner": "gphoto",
             "repo": "libgphoto2",
-            "stars": 1417,
+            "stars": 1419,
             "topics": [
               "access",
               "camera",
@@ -423,7 +423,7 @@
             "open_issues": 382,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4031,
+            "stars": 4030,
             "topics": [
               "android",
               "android-development",
@@ -524,8 +524,8 @@
             "id": 89623031,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T20:01:21Z",
-            "open_issues": 228,
+            "last_commit": "2026-11-08T04:15:14Z",
+            "open_issues": 226,
             "owner": "Exiv2",
             "repo": "exiv2",
             "stars": 1171,
@@ -596,7 +596,7 @@
                 "open_issues": 44,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15628,
+                "stars": 15632,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -677,7 +677,7 @@
                 "open_issues": 10,
                 "owner": "georgmartius",
                 "repo": "vid.stab",
-                "stars": 989,
+                "stars": 990,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:16:47.858Z",
+    "last_updated": "2026-11-09T01:36:46.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
