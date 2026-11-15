@@ -284,7 +284,7 @@
             "open_issues": 133,
             "owner": "dukus",
             "repo": "digiCamControl",
-            "stars": 738,
+            "stars": 739,
             "topics": []
           },
           "first_seen": "2026-08-28T06:03:59.087Z"
@@ -423,7 +423,7 @@
             "open_issues": 382,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4030,
+            "stars": 4031,
             "topics": [
               "android",
               "android-development",
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T01:41:35Z",
-                "open_issues": 49,
+                "last_commit": "2026-11-15T01:35:24Z",
+                "open_issues": 48,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15675,
+                "stars": 15680,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -623,7 +623,7 @@
                 "open_issues": 13,
                 "owner": "MrKepzie",
                 "repo": "Natron",
-                "stars": 1510,
+                "stars": 1511,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -695,7 +695,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-12T11:02:06Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "dyne",
                 "repo": "frei0r",
                 "stars": 596,
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T02:12:40.929Z",
+    "last_updated": "2026-11-15T01:44:03.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
@@ -754,7 +754,7 @@
       "open_issues": 15,
       "owner": "ibaaj",
       "repo": "awesome-OpenSourcePhotography",
-      "stars": 683,
+      "stars": 684,
       "topics": []
     },
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
