@@ -40,7 +40,7 @@
             "open_issues": 4,
             "owner": "PJanisio",
             "repo": "Xiaomi_Yi_autoexec",
-            "stars": 313,
+            "stars": 312,
             "topics": [
               "reverse-engineering",
               "xiaomi",
@@ -389,7 +389,7 @@
             "open_issues": 100,
             "owner": "LuminanceHDR",
             "repo": "LuminanceHDR",
-            "stars": 671,
+            "stars": 672,
             "topics": [
               "c-plus-plus",
               "desktop-application",
@@ -423,7 +423,7 @@
             "open_issues": 382,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4032,
+            "stars": 4031,
             "topics": [
               "android",
               "android-development",
@@ -453,7 +453,7 @@
             "open_issues": 67,
             "owner": "UnevenSoftware",
             "repo": "LeafPic",
-            "stars": 3260,
+            "stars": 3259,
             "topics": [
               "android",
               "app",
@@ -528,7 +528,7 @@
             "open_issues": 227,
             "owner": "Exiv2",
             "repo": "exiv2",
-            "stars": 1172,
+            "stars": 1170,
             "topics": [
               "cli",
               "exif",
@@ -593,10 +593,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-17T03:11:41Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15726,
+                "stars": 15733,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -623,7 +623,7 @@
                 "open_issues": 13,
                 "owner": "MrKepzie",
                 "repo": "Natron",
-                "stars": 1511,
+                "stars": 1510,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -677,7 +677,7 @@
                 "open_issues": 10,
                 "owner": "georgmartius",
                 "repo": "vid.stab",
-                "stars": 996,
+                "stars": 997,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -698,7 +698,7 @@
                 "open_issues": 24,
                 "owner": "dyne",
                 "repo": "frei0r",
-                "stars": 595,
+                "stars": 594,
                 "topics": [
                   "dyne",
                   "linux",
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:09:47.899Z",
+    "last_updated": "2026-11-20T02:58:11.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
@@ -754,7 +754,7 @@
       "open_issues": 15,
       "owner": "ibaaj",
       "repo": "awesome-OpenSourcePhotography",
-      "stars": 685,
+      "stars": 684,
       "topics": []
     },
     "original_repository_sha": "b0475ef9111fc497f5280082aee1c9b33d6e7b81",
