@@ -1,8 +1,8 @@
 # Awesome-OpenSourcePhotography with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,552 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,153 | 🐛 103 | 📅 2026-09-02
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 540,552 | 🐛 103 | 📅 2026-09-02.
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 541,153 | 🐛 103 | 📅 2026-09-02.
 
 * [General](#general)
 * [Camera Firmware Mods](#camera-firmware-mods)
@@ -50,7 +50,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Libraries
 
-* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,430 | 🐛 484 | 🌐 C | 📅 2026-11-21 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
+* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,431 | 🐛 509 | 🌐 C | 📅 2026-11-22 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
 
 ### Canon
 
@@ -71,8 +71,8 @@ A list of awesome free open source software & libraries for photography. Also to
 ## Utilities
 
 * [digiCamControl](https://github.com/dukus/digiCamControl) ⭐ 739 | 🐛 133 | 🌐 C# | 📅 2026-11-05 - DSLR camera remote control open source software.
-* [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) ⭐ 313 | 🐛 0 | 🌐 Java | 📅 2019-09-19 - Control your Canon or Nikon DSLR camera from your Android device through USB.
-* [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) ⭐ 140 | 🐛 18 | 🌐 Java | 📅 2025-03-28 - Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.
+* [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) ⭐ 314 | 🐛 0 | 🌐 Java | 📅 2019-09-19 - Control your Canon or Nikon DSLR camera from your Android device through USB.
+* [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) ⭐ 141 | 🐛 18 | 🌐 Java | 📅 2025-03-28 - Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.
 
 ## Analogue photography
 
@@ -91,7 +91,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## HDR Specific Software
 
-* [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) ⭐ 672 | 🐛 100 | 🌐 C++ | 📅 2026-11-20 - A complete workflow for HDR imaging.
+* [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) ⭐ 672 | 🐛 100 | 🌐 C++ | 📅 2026-11-22 - A complete workflow for HDR imaging.
 * [QPSFTMO](http://theplaceofdeadroads.blogspot.com/2006/07/qpfstmo-hdr-tone-mapping-gui-for-linux_04.html) - HDR Tone Mapping GUI for Linux.
 * [PFS Tools](http://pfstools.sourceforge.net/) - A set of command line programs for reading, writing and manipulating HDR images and video frames.
 
@@ -113,7 +113,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## EXIF Editors
 
-* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,173 | 🐛 227 | 🌐 C++ | 📅 2026-11-16  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
+* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,173 | 🐛 229 | 🌐 C++ | 📅 2026-11-22  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
 * [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/) - A program for reading, writing, and manipulating image, audio, and video metadata.
 
 ## Photo Downloaders
@@ -170,7 +170,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Compositing software
 
-* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,754 | 🐛 48 | 🌐 C++ | 📅 2026-11-21 - A free, open source, cross-platform video editor.
+* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,769 | 🐛 48 | 🌐 C++ | 📅 2026-11-22 - A free, open source, cross-platform video editor.
 * [Natron](https://github.com/MrKepzie/Natron) ⭐ 1,510 | 🐛 13 | 🌐 C++ | 📅 2018-09-30 - A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
 * [ButtleOFX](https://github.com/buttleofx/ButtleOFX) ⭐ 97 | 🐛 35 | 🌐 QML | 📅 2017-07-31 - A simple, user-friendly and open source compositing software.
 * [Blender](https://www.blender.org/) - This open source 3D graphics has tools for video editing.
@@ -206,4 +206,4 @@ make -f tmp/hugin.mk all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
