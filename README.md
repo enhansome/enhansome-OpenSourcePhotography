@@ -1,8 +1,8 @@
 # Awesome-OpenSourcePhotography with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,153 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,811 | 🐛 103 | 📅 2026-09-02
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 541,153 | 🐛 103 | 📅 2026-09-02.
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome) ⭐ 541,811 | 🐛 103 | 📅 2026-09-02.
 
 * [General](#general)
 * [Camera Firmware Mods](#camera-firmware-mods)
@@ -50,7 +50,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## Libraries
 
-* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,431 | 🐛 509 | 🌐 C | 📅 2026-11-22 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
+* [LibGphoto2](https://github.com/gphoto/libgphoto2) ⭐ 1,432 | 🐛 513 | 🌐 C | 📅 2026-11-23 - C APi for Digital camera access and remote control. Java,python,C#, and much more bindings.
 
 ### Canon
 
@@ -91,7 +91,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## HDR Specific Software
 
-* [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) ⭐ 672 | 🐛 100 | 🌐 C++ | 📅 2026-11-22 - A complete workflow for HDR imaging.
+* [Luminance](https://github.com/LuminanceHDR/LuminanceHDR) ⭐ 672 | 🐛 70 | 🌐 C++ | 📅 2026-11-23 - A complete workflow for HDR imaging.
 * [QPSFTMO](http://theplaceofdeadroads.blogspot.com/2006/07/qpfstmo-hdr-tone-mapping-gui-for-linux_04.html) - HDR Tone Mapping GUI for Linux.
 * [PFS Tools](http://pfstools.sourceforge.net/) - A set of command line programs for reading, writing and manipulating HDR images and video frames.
 
@@ -104,7 +104,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 * [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) ⭐ 4,031 | 🐛 382 | 🌐 Kotlin | 📅 2024-08-18 - A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.
 * [Leaf Pic](https://github.com/HoraApps/LeafPic/) ⭐ 3,260 | 🐛 67 | 🌐 Java | 📅 2024-02-14 - Material-designed android gallery alternative.
-* [A Photo Manager](https://github.com/k3b/APhotoManager/) ⭐ 242 | 🐛 49 | 🌐 Java | 📅 2025-08-14 - Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...
+* [A Photo Manager](https://github.com/k3b/APhotoManager/) ⭐ 243 | 🐛 49 | 🌐 Java | 📅 2025-08-14 - Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...
 * [Shotwell](http://yorba.org/shotwell/) - A photo manager for GNOME 3.
 * [DigiKam/ShowFoto](http://www.digikam.org/drupal/about?q=about/overview) - Open Source Photo manager for KDE/Gnome desktop.
 * [GPhoto](http://www.gphoto.org/) - A program and library framework that lets users download pictures from their digital cameras.
@@ -113,7 +113,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ## EXIF Editors
 
-* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,173 | 🐛 229 | 🌐 C++ | 📅 2026-11-22  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
+* [Exiv2](https://github.com/Exiv2/exiv2/) ⭐ 1,172 | 🐛 232 | 🌐 C++ | 📅 2026-11-23  - Exiv2 is a C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata.
 * [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/) - A program for reading, writing, and manipulating image, audio, and video metadata.
 
 ## Photo Downloaders
@@ -170,14 +170,14 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Compositing software
 
-* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,769 | 🐛 48 | 🌐 C++ | 📅 2026-11-22 - A free, open source, cross-platform video editor.
-* [Natron](https://github.com/MrKepzie/Natron) ⭐ 1,510 | 🐛 13 | 🌐 C++ | 📅 2018-09-30 - A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
+* [Shotcut](https://github.com/mltframework/shotcut) ⭐ 15,779 | 🐛 48 | 🌐 C++ | 📅 2026-11-23 - A free, open source, cross-platform video editor.
+* [Natron](https://github.com/MrKepzie/Natron) ⭐ 1,511 | 🐛 13 | 🌐 C++ | 📅 2018-09-30 - A node-based compositor based on the same principles as state-of-the art tools used in film and television post-production.
 * [ButtleOFX](https://github.com/buttleofx/ButtleOFX) ⭐ 97 | 🐛 35 | 🌐 QML | 📅 2017-07-31 - A simple, user-friendly and open source compositing software.
 * [Blender](https://www.blender.org/) - This open source 3D graphics has tools for video editing.
 
 ### Video Libraries
 
-* [Vid.stab](https://github.com/georgmartius/vid.stab) ⭐ 998 | 🐛 10 | 🌐 C | 📅 2026-08-14 - A video stabilization library which can be plugged-in with Ffmpeg and Transcode.
+* [Vid.stab](https://github.com/georgmartius/vid.stab) ⭐ 999 | 🐛 10 | 🌐 C | 📅 2026-08-14 - A video stabilization library which can be plugged-in with Ffmpeg and Transcode.
 * [Frei0r](https://github.com/dyne/frei0r) ⭐ 594 | 🐛 23 | 🌐 C | 📅 2026-11-20 - A large collection of free and portable video plugins.
 * [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) ⭐ 195 | 🐛 112 | 🌐 C++ | 📅 2020-08-13 - An image processing framework based on OpenFX plugin format.
 * [OpenFX](http://openfx.sourceforge.net/) - An Open Plug-in API for 2D Visual Effects.
@@ -206,4 +206,4 @@ make -f tmp/hugin.mk all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
