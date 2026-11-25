@@ -72,7 +72,7 @@
             "language": "C",
             "license": "LGPL-2.1",
             "last_commit": "2026-11-23T13:23:28Z",
-            "open_issues": 513,
+            "open_issues": 518,
             "owner": "gphoto",
             "repo": "libgphoto2",
             "stars": 1432,
@@ -385,8 +385,8 @@
             "id": 30804049,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-23T21:04:48Z",
-            "open_issues": 70,
+            "last_commit": "2026-11-24T15:28:25Z",
+            "open_issues": 71,
             "owner": "LuminanceHDR",
             "repo": "LuminanceHDR",
             "stars": 672,
@@ -423,7 +423,7 @@
             "open_issues": 382,
             "owner": "SimpleMobileTools",
             "repo": "Simple-Gallery",
-            "stars": 4031,
+            "stars": 4032,
             "topics": [
               "android",
               "android-development",
@@ -528,7 +528,7 @@
             "open_issues": 232,
             "owner": "Exiv2",
             "repo": "exiv2",
-            "stars": 1172,
+            "stars": 1174,
             "topics": [
               "cli",
               "exif",
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-23T16:57:45Z",
+                "last_commit": "2026-11-24T18:48:21Z",
                 "open_issues": 48,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15779,
+                "stars": 15787,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:52:56.537Z",
+    "last_updated": "2026-11-25T04:50:57.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
