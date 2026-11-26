@@ -75,7 +75,7 @@
             "open_issues": 518,
             "owner": "gphoto",
             "repo": "libgphoto2",
-            "stars": 1432,
+            "stars": 1433,
             "topics": [
               "access",
               "camera",
@@ -161,7 +161,7 @@
                 "open_issues": 14,
                 "owner": "joshvillbrandt",
                 "repo": "goprohero",
-                "stars": 272,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:59.087Z"
@@ -385,7 +385,7 @@
             "id": 30804049,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-24T15:28:25Z",
+            "last_commit": "2026-11-25T18:17:32Z",
             "open_issues": 71,
             "owner": "LuminanceHDR",
             "repo": "LuminanceHDR",
@@ -592,11 +592,11 @@
                 "id": 4118776,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T18:48:21Z",
-                "open_issues": 48,
+                "last_commit": "2026-11-26T01:31:02Z",
+                "open_issues": 47,
                 "owner": "mltframework",
                 "repo": "shotcut",
-                "stars": 15787,
+                "stars": 15798,
                 "topics": [
                   "cross-platform",
                   "gplv3",
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:50:57.479Z",
+    "last_updated": "2026-11-26T04:03:48.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome free open source software & libraries for photography. Also tools for video.",
